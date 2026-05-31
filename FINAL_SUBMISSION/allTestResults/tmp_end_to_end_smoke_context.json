@@ -1,0 +1,67 @@
+{
+  "question": "Türk Borçlar Kanunu m.314 kapsamında ifa zamanı nasıl düzenlenmiştir?",
+  "contexts": [
+    {
+      "id": "turkish_law_eski_6098_turk_borclar_kanunu_m314",
+      "source": "Türk Borçlar Kanunu",
+      "title": "Türk Borçlar Kanunu",
+      "text": "MADDE 314- Kiracı, aksine sözleşme ve yerel âdet olmadıkça, kira bedelini ve.\ngerekiyorsa yan giderleri, her ayın sonunda ve en geç kira süresinin bitiminde ödemekle.\nyükümlüdür.",
+      "final_rank_score": 5.435202599710405,
+      "old_score": 0.03621617704629898,
+      "v2_score": 0.001962283393368125,
+      "exact_article_bonus": 5.0,
+      "source_compatibility_bonus": 0.25
+    },
+    {
+      "id": "turkish_law_eski_6098_turk_borclar_kanunu_m315",
+      "source": "Türk Borçlar Kanunu",
+      "title": "Türk Borçlar Kanunu",
+      "text": "MADDE 315- Kiracı, kiralananın tesliminden sonra muaccel olan kira bedelini veya.\nyan gideri ödeme borcunu ifa etmezse, kiraya veren kiracıya yazılı olarak bir süre verip, bu.\nsürede de ifa etmeme durumunda, sözleşmeyi feshedeceğini bildirebilir.\nKiracıya verilecek süre en az on gün, konut ve çatılı işyeri kiralarında ise en az otuz.\ngündür. Bu süre, kiracıya yazılı bildirimin yapıldığı tarihi izleyen günden itibaren işlemeye.\nbaşlar.",
+      "final_rank_score": 1.1339843117669732,
+      "old_score": 0.5865318775177002,
+      "v2_score": 0.0005460859974846244,
+      "exact_article_bonus": 0.0,
+      "source_compatibility_bonus": 0.25
+    },
+    {
+      "id": "turkish_law_eski_6098_turk_borclar_kanunu_m233",
+      "source": "Türk Borçlar Kanunu",
+      "title": "Türk Borçlar Kanunu",
+      "text": "MADDE 233- Alıcı, satış bedelini belirtmeksizin, malı alacağını kesin olarak bildirmişse.\nsatış, ifa yeri ve zamanındaki ortalama piyasa fiyatı üzerinden yapılmış sayılır.\nSatış bedeli, satılanın ağırlığına göre hesaplanıyorsa, darası indirilir.\nBazı ticari malların satışında, daralı ağırlıktan miktar olarak ya da yüzde hesabıyla bir.\nindirim yapılmasına veya bedelin, daralı ağırlık üzerinden belirlenmesine ilişkin ticari.\nteamüller saklıdır.",
+      "final_rank_score": 0.8573118502967098,
+      "old_score": 0.4074096977710724,
+      "v2_score": 0.00030146990320645273,
+      "exact_article_bonus": 0.0,
+      "source_compatibility_bonus": 0.25
+    },
+    {
+      "id": "turkish_law_eski_6098_turk_borclar_kanunu_m72",
+      "source": "Türk Borçlar Kanunu",
+      "title": "",
+      "text": "MADDE 72- Tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü.\nöğrendiği tarihten başlayarak iki yılın ve her hâlde fiilin işlendiği tarihten başlayarak on yılın.\ngeçmesiyle zamanaşımına uğrar. Ancak, tazminat ceza kanunlarının daha uzun bir.\nzamanaşımı öngördüğü cezayı gerektiren bir fiilden doğmuşsa, bu zamanaşımı uygulanır.\nHaksız fiil dolayısıyla zarar gören bakımından bir borç doğmuşsa zarar gören, haksız.\nfiilden doğan tazminat istemi zamanaşımına uğramış olsa bile, her zaman bu borcu ifadan.\nkaçınabilir.",
+      "final_rank_score": 0.7961855977438337,
+      "old_score": 0.3530673682689667,
+      "v2_score": 0.0005542157450690866,
+      "exact_article_bonus": 0.0,
+      "source_compatibility_bonus": 0.25
+    },
+    {
+      "id": "turkish_law_eski_6098_turk_borclar_kanunu_m179",
+      "source": "Türk Borçlar Kanunu",
+      "title": "Türk Borçlar Kanunu",
+      "text": "MADDE 179- Bir sözleşmenin hiç veya gereği gibi ifa edilmemesi durumu için bir.\nceza kararlaştırılmışsa, aksi sözleşmeden anlaşılmadıkça alacaklı, ya borcun ya da cezanın.\nifasını isteyebilir.\nCeza, borcun belirlenen zaman veya yerde ifa edilmemesi durumu için kararlaştırılmışsa.\nalacaklı, hakkından açıkça feragat etmiş veya ifayı çekincesiz olarak kabul etmiş olmadıkça, asıl.\nborçla birlikte cezanın ifasını da isteyebilir.\nBorçlunun, kararlaştırılan cezayı ifa ederek sözleşmeyi, dönme veya fesih suretiyle.\nsona erdirmeye yetkili olduğunu ispat etme hakkı saklıdır.",
+      "final_rank_score": 0.7896650977355951,
+      "old_score": 0.3685082495212555,
+      "v2_score": 0.00013999176735524088,
+      "exact_article_bonus": 0.0,
+      "source_compatibility_bonus": 0.25
+    }
+  ],
+  "retrieved_ids": [
+    "turkish_law_eski_6098_turk_borclar_kanunu_m314",
+    "turkish_law_eski_6098_turk_borclar_kanunu_m315",
+    "turkish_law_eski_6098_turk_borclar_kanunu_m233",
+    "turkish_law_eski_6098_turk_borclar_kanunu_m72",
+    "turkish_law_eski_6098_turk_borclar_kanunu_m179"
+  ]
+}

@@ -1,0 +1,2 @@
+Retrieval_R,Answer_A_penalized_F1,Grounding_G_penalized_Faithfulness,Final_Rubric_Score,Raw_F1,Raw_Faithfulness,EM
+0.8,0.3500625314392255,0.5616650152115477,0.560441266378577,0.3581377895144836,0.683870406527604,0.0

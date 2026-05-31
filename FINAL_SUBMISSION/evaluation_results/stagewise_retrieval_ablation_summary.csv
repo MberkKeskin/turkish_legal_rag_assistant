@@ -1,0 +1,16 @@
+Stage,System,Benchmark,Recall@1,Recall@3,Recall@5,MRR,Notes,Source_File
+S0,Initial retrieval / early baseline,Original / early benchmark,1.0,1.0,1.0,,Early retrieval result file,testResults/retrieval_results.csv
+S1,System1-System2-System3 retrieval comparison,Original / early benchmark,,,,0.7777544534391535,Comparison of early retrieval systems,testResults/system1_system2_system3_retrieval_comparison.csv
+S1,BM25-only retrieval,Original / early benchmark,,,,0.9444675925925926,Sparse lexical baseline,testResults/system3_bm25_only_retrieval_results.csv
+S2,Dense fine-tuned + BM25 RRF retrieval,Original / early benchmark,,,,0.8584140211640212,Dense fine-tuned retrieval combined with BM25/RRF,testResults/system3_dense_ft_bm25_rrf_retrieval_results.csv
+S2,System3 full retrieval evaluation,Original / early benchmark,,,,0.8583515216356501,Full retrieval evaluation after dense/sparse improvements,testResults/system3_full_retrieval_eval_from_script.csv
+S3,Fine-tuned reranker v1 validation,Reranker validation,,,,,First reranker validation,testResults/reranker_ft_v1/reranker_ft_v1_loaded_val_summary.csv
+S3,Fine-tuned reranker v2 validation,Reranker validation,,,,,Improved reranker validation,testResults/reranker_ft_v2/reranker_ft_v2_val_summary.csv
+S4,Source-aware Retrieval v3,Hard100,0.58,0.75,0.81,0.6641666666666666,Source-aware retrieval on Hard100,testResults/current_final_v2_pipeline/hard100_source_aware_v3_retrieval_summary.csv
+S4,Source-aware Retrieval v4,Hard100,0.58,0.75,0.81,0.6641666666666666,Improved source-aware retrieval on Hard100,testResults/current_final_v2_pipeline/hard100_source_aware_v4_retrieval_summary.csv
+S5,Error-mined v4 reranker old0.8 v4.0.2,Hard100,0.6,0.79,0.82,0.6898333333333332,Best error-mined reranker ensemble setting,testResults/current_final_v2_pipeline/hard100_error_mined_v4_reranker_old0_8_v40_2_summary.csv
+S6,Final v8 Hard100,Hard100,0.6,0.82,0.85,0.7031666666666665,Final end-to-end Hard100 summary,testResults/final_best_system_v8/final_v8_hard100_summary_direct_pipeline_checkpoint.csv
+S7,Selector decision - default_top5,hard_benchmark_500_v1.json,0.526,0.688,0.76,0.6126,Final selector comparison. default_top5 selected because it improves Hard500 and preserves Real30.,testResults/final_selector_decision/selector_decision_summary.csv
+S7,Selector decision - top3_plus_8_9,hard_benchmark_500_v1.json,0.526,0.688,0.714,0.6018,Final selector comparison. default_top5 selected because it improves Hard500 and preserves Real30.,testResults/final_selector_decision/selector_decision_summary.csv
+S7,Selector decision - default_top5,gercek_benchmark_30soru.json,0.8333333333333334,0.9,0.9333333333333332,0.8733333333333333,Final selector comparison. default_top5 selected because it improves Hard500 and preserves Real30.,testResults/final_selector_decision/selector_decision_summary.csv
+S7,Selector decision - top3_plus_8_9,gercek_benchmark_30soru.json,0.8333333333333334,0.9,0.9,0.8666666666666667,Final selector comparison. default_top5 selected because it improves Hard500 and preserves Real30.,testResults/final_selector_decision/selector_decision_summary.csv

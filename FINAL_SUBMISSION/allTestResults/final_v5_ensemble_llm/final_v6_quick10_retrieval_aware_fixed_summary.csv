@@ -1,0 +1,2 @@
+System,n,Recall@1,Recall@3,Recall@5,MRR,EM,Token_F1,ROUGE1_F,ROUGEL_F,BLEU,Faithfulness,Hallucination_Risk,Citation_Accuracy,Bad_Answer_Rate,Retrieval_R,Answer_A_penalized_F1,Grounding_G_penalized_Faithfulness,Final_Rubric_Score
+Final v6 quick10 - Top1 Context + Retrieval-aware Qwen + Fixed Faithfulness,10,0.7,0.9,0.9,0.8,0.0,0.5729490847881532,0.5707662497755897,0.5141201105171546,0.2697755142806673,0.9316320238900883,0.06836797610991159,0.9,0.0,0.9,0.5156541763093379,0.8384688215010795,0.747019608158592

@@ -1,0 +1,7 @@
+Artificial intelligence (AI) is the field of building systems that can perform tasks that normally require human intelligence. These tasks include perception, reasoning, learning, language understanding, and decision making. Machine learning is a subfield of AI that learns patterns from data rather than relying solely on hand-coded rules.
+
+Retrieval-augmented generation (RAG) combines information retrieval with text generation. First, a retriever finds relevant passages from a knowledge base. Then, a generator uses those passages as context to produce an answer. This approach helps ground the output in real sources and can reduce hallucination.
+
+Embeddings are numerical representations of text or data. They capture semantic meaning so that similar items have nearby vectors in a high-dimensional space. Embeddings are widely used for search, clustering, and retrieval.
+
+Large language models (LLMs) are neural networks trained on large amounts of text to predict the next token. They can generate coherent responses, summarize documents, and answer questions based on patterns in the training data.

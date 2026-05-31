@@ -1,0 +1,13 @@
+streamlit
+rank-bm25
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+peft
+bitsandbytes
+sentencepiece
+rouge-score
+sacrebleu
+pypdf
+python-docx

@@ -1,0 +1,17 @@
+torch
+transformers
+sentence-transformers
+accelerate
+peft
+bitsandbytes
+sentencepiece
+rank-bm25
+faiss-cpu
+rouge-score
+sacrebleu
+pypdf
+python-docx
+ipywidgets
+pandas
+numpy
+scikit-learn

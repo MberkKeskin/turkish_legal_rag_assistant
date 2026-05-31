@@ -1,0 +1,7 @@
+Machine learning focuses on building models that learn from data. In supervised learning, the model is trained on labeled examples and learns to map inputs to outputs. In unsupervised learning, the model looks for patterns without labels.
+
+Overfitting happens when a model learns the training data too well, including noise and quirks, and then performs poorly on new data. A common fix is to use regularization or more data, or to simplify the model.
+
+Common evaluation metrics for classification include accuracy, precision, recall, and F1 score. For regression tasks, metrics such as mean squared error are often used.
+
+Features are the input variables a model uses to make predictions. Good feature design can significantly improve model performance.

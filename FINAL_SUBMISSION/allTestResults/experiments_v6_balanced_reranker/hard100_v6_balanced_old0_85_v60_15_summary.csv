@@ -1,0 +1,2 @@
+System,n,old_weight,v6_weight,Recall@1,Recall@3,Recall@5,MRR
+Balanced v6 reranker old=0.85 v6=0.15,100,0.85,0.15,0.59,0.75,0.78,0.6698333333333332

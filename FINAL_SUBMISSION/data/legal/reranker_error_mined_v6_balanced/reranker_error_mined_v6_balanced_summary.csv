@@ -1,0 +1,2 @@
+total_rows,total_queries,train_rows,val_rows,train_queries,val_queries,positive_rows,negative_rows,query_overlap
+15925,698,14383,1542,628,70,1247,14678,0

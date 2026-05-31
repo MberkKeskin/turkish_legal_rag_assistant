@@ -1,0 +1,192 @@
+{
+  "results": [
+    {
+      "question": "Anayasa, Türk Vatanı ve Milletinin ebedi varlığını nasıl güvence altına almayı amaçlıyor?",
+      "in_dataset": true,
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Bilmiyorum",
+      "source_match_ok": true,
+      "ood_fallback_ok": false,
+      "groundedness": "unsupported"
+    },
+    {
+      "question": "Anayasa, Türkiye Cumhuriyetinin hangi milliyetçilik anlayışını temel alıyor?",
+      "in_dataset": true,
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Anayasanın milliyetçilik anlayışı, Türkiye Cumhuriyeti'nin milli kimliğini oluşturan temel değerleri ifade eder. Bu değerler, ulusal birlik, beraberlik, dayanışma, hoşgörü, adalet, eşitlik, özgürlük, insan hakları, demokrasi, hukukun üstünlüğü, insan onuru, insan hakları, demokrasi kültürü, insan hakları hukuku, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi, insan hakları eğitimi",
+      "source_match_ok": true,
+      "ood_fallback_ok": false,
+      "groundedness": "unsupported"
+    },
+    {
+      "question": "Anayasa, Türkiye Cumhuriyetini hangi konumda tanımlıyor?",
+      "in_dataset": true,
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Anayasa, Türkiye Cumhuriyeti'ni, Türkiye Cumhuriyeti Devleti'nin anayasal yapısını ve temel ilkelerini belirleyen, devletin temel niteliklerini ve işleyişini düzenleyen, devletin temel organlarının görevlerini tanımlayan ve devletin temel organlarının görevlerini düzenleyen bir belgedir. Anayasa, Türkiye Cumhuriyeti'nin temel niteliklerini ve işleyişini belirler. Bu nedenle, Anayasa, Türkiye Cumhuriyeti'nin temel niteliklerini ve işleyişini belirleyen bir belgedir. Anayasa, Türkiye Cumhuriyeti'nin temel niteliklerini ve işleyişini belirleyen bir belgedir. Bu nedenle, Anayasa, Türkiye Cumhuriyeti'nin temel niteliklerini ve işleyişini belirleyen bir belgedir.",
+      "source_match_ok": true,
+      "ood_fallback_ok": false,
+      "groundedness": "unsupported"
+    },
+    {
+      "question": "Anayasa, Türkiye Cumhuriyetinin hangi hedeflere ulaşmasını amaçlıyor?",
+      "in_dataset": true,
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Anayasanın amacı, Türkiye Cumhuriyeti’nin demokratik, laik ve sosyal bir hukuk devleti olarak varlığını sürdürmesini sağlamaktır. Bu amaç doğrultusunda, Türkiye Cumhuriyeti’nin temel nitelikleri, devletin yapısı, işleyişi ve organları, temel hak ve özgürlükler, insan hakları, demokrasi ve hukukun üstünlüğü gibi konular anayasada yer alır. Anayasa, Türkiye Cumhuriyeti’nin temel niteliklerini, devletin yapısını, işleyişini ve organlarının işleyişini düzenler. Bu nedenle, anayasa, Türkiye Cumhuriyeti’nin temel niteliklerinin korunmasını amaçlar. Anayasa, Türkiye Cumhuriyeti’nin temel niteliklerini korur ve bu niteliklerin korunmasını sağlar. Anayasa, Türkiye Cumhuriyeti’nin temel niteliklerini korur ve bu",
+      "source_match_ok": true,
+      "ood_fallback_ok": false,
+      "groundedness": "weakly_supported"
+    },
+    {
+      "question": "Anayasa, egemenliğin kime ait olduğunu nasıl belirtiyor?",
+      "in_dataset": true,
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Anayasanın temel amacı, Türkiye Cumhuriyeti'nin egemenlik haklarını korumaktır. Bu nedenle, Anayasa, egemenliğin kime ait olduğunu belirlemez. Ancak, Anayasa, egemenliğin devredilemez olduğunu belirtir. Bu nedenle, Anayasa, egemenliğin devredilemeyeceğini açıkça ifade eder.",
+      "source_match_ok": true,
+      "ood_fallback_ok": false,
+      "groundedness": "unsupported"
+    },
+    {
+      "question": "Anayasa, millet iradesinin nasıl kullanılacağını nasıl düzenliyor?",
+      "in_dataset": true,
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Anayasanın amacı, Türkiye Cumhuriyeti'nin temel niteliklerini korumak ve geliştirmektir. Bu nedenle, anayasa, yasama, yürütme ve yargı organları arasında denge ve denetleme görevini yerine getirir. Anayasada, yasama organının, yürütme organına karşı sorumlu olduğu açıkça belirtilmiştir. Yasama organı, yürütme organını denetlemekle yükümlüdür. Yürütme organı ise, yasamanın yerine geçerek, yasama organını denetleyebilir. Bu nedenle, anayasa, yasama organının, yürütme organından bağımsız olduğunu belirtir. Anayasa, yürütme organının, yasama organını denetleme yetkilerini de düzenler. Yürütme organı, yasama organını denetlemekle yükümlüdür. Bu nedenle, anayasa, yürütme organının",
+      "source_match_ok": true,
+      "ood_fallback_ok": false,
+      "groundedness": "weakly_supported"
+    },
+    {
+      "question": "Kuvvetler ayrılığı ilkesi, Anayasa'da nasıl tanımlanıyor?",
+      "in_dataset": true,
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Kuvvetler ayrılığı ilkesi, yasama, yürütme ve yargı organlarının birbirinden bağımsız olduğu ve bu organların kendi görevlerinin yanı sıra diğer kamu kurum ve kuruluşları ile olan ilişkilerinde de bağımsız oldukları anlamına gelir. Bu ilke, yasama, yürütme ve yargının birbirinden ayrı olduğunu ve bu organların kendi görevlerinin yanı",
+      "source_match_ok": true,
+      "ood_fallback_ok": false,
+      "groundedness": "unsupported"
+    },
+    {
+      "question": "Anayasa, ülkenin en üst yetkisinin nerede olduğunu nasıl belirtiyor?",
+      "in_dataset": true,
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Yürütme organı, yürütme görevini, yasama organına karşı kullanır. Yasama organı, yürütme organını, yürütme yetkisi ile donatarak, yürütme organının gücünü artırır. Yürütme organı, yürütme yetkisini kullanarak, yürütme organının gücünü artırır. Cevap",
+      "source_match_ok": true,
+      "ood_fallback_ok": false,
+      "groundedness": "unsupported"
+    },
+    {
+      "question": "Anayasa, hangi milli değerlerin korunmasını amaçlıyor?",
+      "in_dataset": true,
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Anayasanın temel ilkeleri, Türkiye Cumhuriyeti’nin milli değerlerinin korunmasıdır. Bu nedenle, Anayasada yer alan temel ilkeler, Türkiye Cumhuriyeti’nin milli değerlerini korumak için gerekli tedbirleri almayı amaçlamaktadır. Cevap",
+      "source_match_ok": true,
+      "ood_fallback_ok": false,
+      "groundedness": "unsupported"
+    },
+    {
+      "question": "Anayasa'da laiklik ilkesinin önemi nedir?",
+      "in_dataset": true,
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Bilmiyorum",
+      "source_match_ok": true,
+      "ood_fallback_ok": false,
+      "groundedness": "unsupported"
+    },
+    {
+      "question": "Türkiye'nin başkenti neresidir?",
+      "in_dataset": false,
+      "expected_sources": [],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Ankara.",
+      "source_match_ok": false,
+      "ood_fallback_ok": false,
+      "groundedness": "unsupported"
+    },
+    {
+      "question": "Dünyanın en yüksek dağı hangisidir?",
+      "in_dataset": false,
+      "expected_sources": [],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Dünya'nın en yüksek dağı Everest Dağı'dır.",
+      "source_match_ok": false,
+      "ood_fallback_ok": false,
+      "groundedness": "unsupported"
+    },
+    {
+      "question": "Python programlama dili hangi yıl çıktı?",
+      "in_dataset": false,
+      "expected_sources": [],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "final_answer": "Bilmiyorum",
+      "source_match_ok": false,
+      "ood_fallback_ok": true,
+      "groundedness": "unsupported"
+    }
+  ]
+}

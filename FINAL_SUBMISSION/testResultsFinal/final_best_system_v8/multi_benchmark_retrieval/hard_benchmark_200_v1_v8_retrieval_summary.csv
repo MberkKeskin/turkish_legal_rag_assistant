@@ -1,0 +1,2 @@
+Benchmark,n,Recall@1,Recall@3,Recall@5,MRR
+hard_benchmark_200_v1.json,200,0.585,0.74,0.765,0.6571666666666667

@@ -1,0 +1,6 @@
+Stage,Description,n,Recall_1,Recall_3,Recall_5,MRR,Token_F1,Citation_Accuracy_Proxy,Faithfulness_Proxy,Final_Rubric_Proxy
+S0_BASE,Base embedding + earliest available reranker + base LLM,5,1.0,1.0,1.0,1.0,,1.0,1.0,0.6
+S1_FT_EMBEDDING,Fine-tuned embedding added,5,1.0,1.0,1.0,1.0,,1.0,1.0,0.6
+S2_FT_RERANKER,Fine-tuned reranker added,5,0.8,1.0,1.0,0.9,,1.0,1.0,0.6
+S3_ERROR_MINED_RERANKER,Error-mined reranker and faithful LLM,5,0.8,1.0,1.0,0.9,,1.0,1.0,0.6
+S4_FINAL_SYSTEM,Final system with default_top5,5,0.8,1.0,1.0,0.9,,1.0,1.0,0.6

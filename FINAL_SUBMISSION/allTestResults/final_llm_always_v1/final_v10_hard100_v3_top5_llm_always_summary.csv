@@ -1,0 +1,2 @@
+System,n,Recall@1,Recall@3,Recall@5,MRR,EM,Token_F1,ROUGE1_F,ROUGEL_F,BLEU,Faithfulness,Hallucination_Risk,Citation_Accuracy,Bad_Answer_Rate,Retry_Rate,Retrieval_R,Answer_A_penalized_F1,Grounding_G_penalized_Faithfulness,Final_Rubric_Score
+Final v10 Hard100 - V3 Top5 + LLM Always,100,0.59,0.75,0.79,0.6685,0.0,0.5428693396672428,0.5468960868813669,0.497716975521276,0.2993519464573554,0.9340192848171591,0.0659807151828407,0.79,0.0,0.0,0.79,0.42886677833712183,0.7378752350055557,0.6479659429196594

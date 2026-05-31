@@ -1,0 +1,2 @@
+Benchmark,n,Recall@1,Recall@3,Recall@5,MRR
+benchmark_100_temiz.json,100,0.23,0.26,0.26,0.245

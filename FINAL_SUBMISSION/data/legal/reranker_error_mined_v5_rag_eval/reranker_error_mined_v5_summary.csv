@@ -1,0 +1,2 @@
+rag_eval_path,max_items,total_rows,total_queries,train_rows,val_rows,train_queries,val_queries,positive_rows,negative_rows,query_overlap,skipped_count
+/content/drive/MyDrive/turkish-legal-rag-pipeline-feat-baseline-rag-arda/baseline_rag/data/legal/final_datasets/rag_eval_final_clean_unique_1000.json,1000,13500,900,12150,1350,810,90,900,12600,0,100

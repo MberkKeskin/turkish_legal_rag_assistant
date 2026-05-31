@@ -1,0 +1,2 @@
+System,n,Oracle_Context_Found_Rate,Recall@1,Recall@3,Recall@5,MRR,EM,Token_F1,ROUGE1_F,ROUGEL_F,BLEU,Faithfulness,Hallucination_Risk,Citation_Accuracy,Bad_Answer_Rate,Retry_Rate,Retrieval_R,Answer_A_penalized_F1,Grounding_G_penalized_Faithfulness,Final_Rubric_Score
+Oracle Gold Context Hard100 + Faithful LLM,100,1.0,1.0,1.0,1.0,1.0,0.0,0.705716036073228,0.6782414077703612,0.6610461743950852,0.40606511503871345,0.9003739910176559,0.09962600898234425,1.0,0.0,0.0,1.0,0.705716036073228,0.9003739910176559,0.8671128099309265

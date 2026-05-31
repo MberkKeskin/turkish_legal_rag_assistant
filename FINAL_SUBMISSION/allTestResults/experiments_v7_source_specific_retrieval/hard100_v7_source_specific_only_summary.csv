@@ -1,0 +1,2 @@
+System,n,Recall@1,Recall@3,Recall@5,MRR,Avg_Candidate_Count
+v7_source_specific_only,100,0.6,0.8,0.83,0.6948333333333332,181.46

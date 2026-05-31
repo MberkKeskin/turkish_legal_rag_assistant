@@ -1,0 +1,2 @@
+group,n,Recall@1,Recall@3,Recall@5,MRR,miss_count,total,top5_miss,miss_gold_in_candidate_pool_true,miss_gold_in_rerank50_true,miss_same_family_top5_true,miss_same_family_rerank50_true
+overall,500,0.526,0.688,0.714,0.6018,143,500,143,110,102,51,107

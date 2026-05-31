@@ -1,0 +1,5 @@
+Error_Type,Count
+good_answer,11
+incomplete_or_over_summarized_answer,4
+possible_hallucination_or_unsupported_generation,3
+partial_answer,2

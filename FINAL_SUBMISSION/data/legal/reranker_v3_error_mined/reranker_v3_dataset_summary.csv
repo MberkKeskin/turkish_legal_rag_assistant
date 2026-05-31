@@ -1,0 +1,2 @@
+train_rows,val_rows,train_queries,val_queries,train_positive,train_negative,val_positive,val_negative,query_overlap
+6637,731,810,90,810,5827,90,641,0

@@ -1,0 +1,214 @@
+{
+  "results": [
+    {
+      "question": "Anayasa, Türk Vatanı ve Milletinin ebedi varlığını nasıl güvence altına almayı amaçlıyor?",
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_ranks": {
+        "Türkiye Cumhuriyeti Anayasası": 1
+      },
+      "top_k": 5,
+      "recall@1": true,
+      "recall@3": true,
+      "recall@5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "question": "Anayasa, Türkiye Cumhuriyetinin hangi milliyetçilik anlayışını temel alıyor?",
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_ranks": {
+        "Türkiye Cumhuriyeti Anayasası": 1
+      },
+      "top_k": 5,
+      "recall@1": true,
+      "recall@3": true,
+      "recall@5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "question": "Anayasa, Türkiye Cumhuriyetini hangi konumda tanımlıyor?",
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_ranks": {
+        "Türkiye Cumhuriyeti Anayasası": 1
+      },
+      "top_k": 5,
+      "recall@1": true,
+      "recall@3": true,
+      "recall@5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "question": "Anayasa, Türkiye Cumhuriyetinin hangi hedeflere ulaşmasını amaçlıyor?",
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_ranks": {
+        "Türkiye Cumhuriyeti Anayasası": 1
+      },
+      "top_k": 5,
+      "recall@1": true,
+      "recall@3": true,
+      "recall@5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "question": "Anayasa, egemenliğin kime ait olduğunu nasıl belirtiyor?",
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_ranks": {
+        "Türkiye Cumhuriyeti Anayasası": 1
+      },
+      "top_k": 5,
+      "recall@1": true,
+      "recall@3": true,
+      "recall@5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "question": "Anayasa, millet iradesinin nasıl kullanılacağını nasıl düzenliyor?",
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_ranks": {
+        "Türkiye Cumhuriyeti Anayasası": 1
+      },
+      "top_k": 5,
+      "recall@1": true,
+      "recall@3": true,
+      "recall@5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "question": "Kuvvetler ayrılığı ilkesi, Anayasa'da nasıl tanımlanıyor?",
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_ranks": {
+        "Türkiye Cumhuriyeti Anayasası": 1
+      },
+      "top_k": 5,
+      "recall@1": true,
+      "recall@3": true,
+      "recall@5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "question": "Anayasa, ülkenin en üst yetkisinin nerede olduğunu nasıl belirtiyor?",
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_ranks": {
+        "Türkiye Cumhuriyeti Anayasası": 1
+      },
+      "top_k": 5,
+      "recall@1": true,
+      "recall@3": true,
+      "recall@5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "question": "Anayasa, hangi milli değerlerin korunmasını amaçlıyor?",
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_ranks": {
+        "Türkiye Cumhuriyeti Anayasası": 1
+      },
+      "top_k": 5,
+      "recall@1": true,
+      "recall@3": true,
+      "recall@5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "question": "Anayasa'da laiklik ilkesinin önemi nedir?",
+      "expected_sources": [
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_sources": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası",
+        "Türkiye Cumhuriyeti Anayasası"
+      ],
+      "retrieved_ranks": {
+        "Türkiye Cumhuriyeti Anayasası": 1
+      },
+      "top_k": 5,
+      "recall@1": true,
+      "recall@3": true,
+      "recall@5": true,
+      "reciprocal_rank": 1.0
+    }
+  ]
+}

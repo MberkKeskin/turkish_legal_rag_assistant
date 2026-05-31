@@ -1,0 +1,2 @@
+System,n,Recall@1,Recall@3,Recall@5,MRR,EM,Token_F1,ROUGE1_F,ROUGEL_F,BLEU,Faithfulness,Hallucination_Risk,Citation_Accuracy,Bad_Answer_Rate,Retry_Rate,Retrieval_R,Answer_A_penalized_F1,Grounding_G_penalized_Faithfulness,Final_Rubric_Score
+Final Hard100 - Error-mined v4 reranker old0.85/v40.15 + Selector v2 + LLM,100,0.6,0.82,0.85,0.7031666666666665,0.0,0.5658259953430252,0.5661717369818077,0.515465291002756,0.31212351932758314,0.9381716484776201,0.06182835152237981,0.85,0.0,0.0,0.85,0.48095209604157146,0.7974459012059771,0.7050670039763431

@@ -1,0 +1,4 @@
+Scenario,System,Benchmark,Retrieval_R,Answer_A,Grounding_G,Recall@5,MRR,Token_F1,Faithfulness,Citation_Accuracy,Final_Rubric_Score
+Gold Q + A + Doc,Final v8 end-to-end,Hard100,0.85,0.4861206925343251,0.7998078872775158,0.85,0.7031666666666665,0.571906697099206,0.9409504556206068,0.85,0.7075846085702685
+Gold Q + A + Doc,Final default_top5 retrieval,hard_benchmark_500_v1.json,0.76,,,0.76,0.6126,,,,
+Gold Q + A + Doc,Final default_top5 retrieval,gercek_benchmark_30soru.json,0.9333333333333332,,,0.9333333333333332,0.8733333333333333,,,,

@@ -1,0 +1,330 @@
+system,idx,question,gold_answer,prediction,raw_prediction,gold_ids,retrieved_ids,retrieval_hit,EM,F1,Faithfulness,Citation_Accuracy,mode,used_guard,context
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,1,Ceza Muhakemesi Kanunu m.225 kapsamında “Hükmün konusu ve suçu değerlendirmede mahkemenin yetkisi” nasıl düzenlenmiştir?,"Madde 225 – (1) Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilir. (2) Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir.","Madde 225 – (1) Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilir.
+(2) Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir.
+
+Kaynak: Ceza Muhakemesi Kanunu - turkish_law_eski_5271_ceza_muhakemesi_kanunu_m225","Madde 225 – (1) Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilir.
+(2) Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir.
+
+Kaynak: Ceza Muhakemesi Kanunu - turkish_law_eski_5271_ceza_muhakemesi_kanunu_m225",['turkish_law_eski_5271_ceza_muhakemesi_kanunu_m225'],"['turkish_law_eski_5271_ceza_muhakemesi_kanunu_m225', 'turkish_law_eski_6098_turk_borclar_kanunu_m225', 'turkish_law_eski_4721_turk_medeni_kanunu_m225', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m2', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m99']",1,0,0.9090909090909091,0.9655172413793104,1.0,extractive_guard,True,"[ID: turkish_law_eski_5271_ceza_muhakemesi_kanunu_m225]
+[SOURCE: Ceza Muhakemesi Kanunu]
+Madde 225 – (1) Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilir.
+(2) Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,2,Türk Medenî Kanunu m.307 kapsamında “III. Tek başına evlât edinme” nasıl düzenlenmiştir?,"Madde 307- Evli olmayan kişi otuz yaşını doldurmuş ise tek başına evlât edinebilir. Otuz yaşını doldurmuş olan eş, diğer eşin ayırt etme gücünden sürekli olarak yoksunluğu. veya iki yılı aşkın süreden beri nerede olduğunun bilinmemesi ya da mahkeme kararıyla iki yılı. aşkın süreden beri eşinden ayrı yaşamakta olması yüzünden birlikte evlât edinmesinin mümkün. olmadığını ispat etmesi hâlinde, tek başına evlât edinebilir.","Madde 307- Evli olmayan kişi otuz yaşını doldurmuş ise tek başına evlât edinebilir.
+Otuz yaşını doldurmuş olan eş, diğer eşin ayırt etme gücünden sürekli olarak yoksunluğu.
+veya iki yılı aşkın süreden beri nerede olduğunun bilinmemesi ya da mahkeme kararıyla iki yılı.
+aşkın süreden beri eşinden ayrı yaşamakta olması yüzünden birlikte evlât edinmesinin mümkün.
+olmadığını ispat etmesi hâlinde, tek başına evlât edinebilir.
+
+Kaynak: Türk Medenî Kanunu - turkish_law_eski_4721_turk_medeni_kanunu_m307","Madde 307- Evli olmayan kişi otuz yaşını doldurmuş ise tek başına evlât edinebilir.
+Otuz yaşını doldurmuş olan eş, diğer eşin ayırt etme gücünden sürekli olarak yoksunluğu.
+veya iki yılı aşkın süreden beri nerede olduğunun bilinmemesi ya da mahkeme kararıyla iki yılı.
+aşkın süreden beri eşinden ayrı yaşamakta olması yüzünden birlikte evlât edinmesinin mümkün.
+olmadığını ispat etmesi hâlinde, tek başına evlât edinebilir.
+
+Kaynak: Türk Medenî Kanunu - turkish_law_eski_4721_turk_medeni_kanunu_m307",['turkish_law_eski_4721_turk_medeni_kanunu_m307'],"['turkish_law_eski_4721_turk_medeni_kanunu_m307', 'turkish_law_eski_6098_turk_borclar_kanunu_m307', 'turkish_law_eski_4721_turk_medeni_kanunu_m315', 'yargitay_0675_medeni_usul_hukuku_001', 'yargitay_0054_medeni_usul_hukuku_001']",1,0,0.9606299212598425,0.9811320754716981,1.0,extractive_guard,True,"[ID: turkish_law_eski_4721_turk_medeni_kanunu_m307]
+[SOURCE: Türk Medenî Kanunu]
+Madde 307- Evli olmayan kişi otuz yaşını doldurmuş ise tek başına evlât edinebilir.
+Otuz yaşını doldurmuş olan eş, diğer eşin ayırt etme gücünden sürekli olarak yoksunluğu.
+veya iki yılı aşkın süreden beri nerede olduğunun bilinmemesi ya da mahkeme kararıyla iki yılı.
+aşkın süreden beri eşinden ayrı yaşamakta olması yüzünden birlikte evlât edinmesinin mümkün.
+olmadığını ispat etmesi hâlinde, tek başına evlât edinebilir."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,3,Bilgi Edinme Hakkı Kanunu m.17 kapsamında “Ülkenin ekonomik çıkarlarına ilişkin bilgi veya belgeler” nasıl düzenlenmiştir?,"Madde 17- Açıklanması ya da zamanından önce açıklanması hâlinde, ülkenin ekonomik çıkarlarına zarar verecek veya haksız rekabet ve kazanca sebep olacak bilgi veya belgeler, bu Kanun kapsamı dışındadır.","Madde 17- Açıklanması ya da zamanından önce açıklanması hâlinde, ülkenin ekonomik çıkarlarına zarar verecek veya haksız rekabet ve kazanca sebep olacak bilgi veya belgeler, bu Kanun kapsamı dışındadır.
+
+Kaynak: Bilgi Edinme Hakkı Kanunu - turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m17","Madde 17- Açıklanması ya da zamanından önce açıklanması hâlinde, ülkenin ekonomik çıkarlarına zarar verecek veya haksız rekabet ve kazanca sebep olacak bilgi veya belgeler, bu Kanun kapsamı dışındadır.
+
+Kaynak: Bilgi Edinme Hakkı Kanunu - turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m17",['turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m17'],"['turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m17', 'turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m21', 'turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m18', 'turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m25', 'turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m22']",1,0,0.9032258064516129,0.967741935483871,1.0,extractive_guard,True,"[ID: turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m17]
+[SOURCE: Bilgi Edinme Hakkı Kanunu]
+Madde 17- Açıklanması ya da zamanından önce açıklanması hâlinde, ülkenin ekonomik çıkarlarına zarar verecek veya haksız rekabet ve kazanca sebep olacak bilgi veya belgeler, bu Kanun kapsamı dışındadır."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,4,Türk Bayrağı Tüzüğü m.29 kapsamında “Flandra” nasıl düzenlenmiştir?,"Madde 29 – Flandra, boyu eninin 18 katı olan bayraktır. Bu bayraklar, savaş gemileriyle yardımcı gemilerde, tanıtma işareti olmak üzere, yalnız denizde kullanılır.","Madde 29 – Flandra, boyu eninin 18 katı olan bayraktır. Bu bayraklar, savaş gemileriyle yardımcı gemilerde, tanıtma işareti olmak üzere, yalnız denizde kullanılır.
+
+Kaynak: Türk Bayrağı Tüzüğü - turkish_law_eski_85_9034_turk_bayragi_tuzugu_m29","Madde 29 – Flandra, boyu eninin 18 katı olan bayraktır. Bu bayraklar, savaş gemileriyle yardımcı gemilerde, tanıtma işareti olmak üzere, yalnız denizde kullanılır.
+
+Kaynak: Türk Bayrağı Tüzüğü - turkish_law_eski_85_9034_turk_bayragi_tuzugu_m29",['turkish_law_eski_85_9034_turk_bayragi_tuzugu_m29'],"['turkish_law_eski_85_9034_turk_bayragi_tuzugu_m29', 'turkish_law_eski_85_9034_turk_bayragi_tuzugu_m27', 'turkish_law_eski_6098_turk_borclar_kanunu_m29', 'turkish_law_eski_85_9034_turk_bayragi_tuzugu_m1', 'turkish_law_eski_4721_turk_medeni_kanunu_m29']",1,0,0.9019607843137255,0.9642857142857143,1.0,extractive_guard,True,"[ID: turkish_law_eski_85_9034_turk_bayragi_tuzugu_m29]
+[SOURCE: Türk Bayrağı Tüzüğü]
+Madde 29 – Flandra, boyu eninin 18 katı olan bayraktır. Bu bayraklar, savaş gemileriyle yardımcı gemilerde, tanıtma işareti olmak üzere, yalnız denizde kullanılır."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,5,Türk Borçlar Kanunu m.314 kapsamında “2. İfa zamanı” nasıl düzenlenmiştir?,"MADDE 314- Kiracı, aksine sözleşme ve yerel âdet olmadıkça, kira bedelini ve. gerekiyorsa yan giderleri, her ayın sonunda ve en geç kira süresinin bitiminde ödemekle. yükümlüdür.","MADDE 314- Kiracı, aksine sözleşme ve yerel âdet olmadıkça, kira bedelini ve.
+gerekiyorsa yan giderleri, her ayın sonunda ve en geç kira süresinin bitiminde ödemekle.
+yükümlüdür.
+
+Kaynak: Türk Borçlar Kanunu - turkish_law_eski_6098_turk_borclar_kanunu_m314","MADDE 314- Kiracı, aksine sözleşme ve yerel âdet olmadıkça, kira bedelini ve.
+gerekiyorsa yan giderleri, her ayın sonunda ve en geç kira süresinin bitiminde ödemekle.
+yükümlüdür.
+
+Kaynak: Türk Borçlar Kanunu - turkish_law_eski_6098_turk_borclar_kanunu_m314",['turkish_law_eski_6098_turk_borclar_kanunu_m314'],"['turkish_law_eski_6098_turk_borclar_kanunu_m314', 'yargitay_0060_aile_hukuku_001', 'yargitay_0060_aile_hukuku_004', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m139_p002', 'turkish_law_eski_4721_turk_medeni_kanunu_m314']",1,0,0.9122807017543859,0.9642857142857143,1.0,extractive_guard,True,"[ID: turkish_law_eski_6098_turk_borclar_kanunu_m314]
+[SOURCE: Türk Borçlar Kanunu]
+MADDE 314- Kiracı, aksine sözleşme ve yerel âdet olmadıkça, kira bedelini ve.
+gerekiyorsa yan giderleri, her ayın sonunda ve en geç kira süresinin bitiminde ödemekle.
+yükümlüdür."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,6,Türkiye Cumhuriyeti Anayasası m.54 kapsamında “B. Grev hakkı ve lokavt” nasıl düzenlenmiştir?,"Madde 54 – Toplu iş sözleşmesinin yapılması sırasında, uyuşmazlık çıkması halinde işçiler grev hakkına sahiptirler. Bu hakkın kullanılmasının ve işverenin lokavta başvurmasının usul ve şartları ile kapsam ve istisnaları kanunla düzenlenir. Grev hakkı ve lokavt iyiniyet kurallarına aykırı tarzda, toplum zararına ve milli serveti tahrip edecek şekilde kullanılamaz. (Mülga üçüncü fıkra: 7/5/2010-5982/7 md.) Grev ve lokavtın yasaklanabileceği veya ertelenebileceği haller ve işyerleri kanunla düzenlenir. Grev ve lokavtın yasaklandığı hallerde veya ertelendiği durumlarda ertelemenin sonunda, uyuşmazlık Yüksek Hakem Kurulunca çözülür. Uyuşmazlığın her safhasında taraflar da anlaşarak Yüksek Hakem Kuruluna başvurabilir. Yüksek Hakem Kurulunun kararları kesindir ve toplu iş sözleşmesi hükmündedir. Yüksek hakem kurulunun kuruluş ve görevleri kanunla düzenlenir. (Mülga yedinci fıkra: 7/5/2010-5982/7 md.) Greve katılmayanların işyerinde çalışmaları, greve katılanlar tarafından hiç bir şekilde engellenemez.","Madde 54 – Toplu iş sözleşmesinin yapılması sırasında, uyuşmazlık çıkması halinde işçiler grev hakkına sahiptirler. Bu hakkın kullanılmasının ve işverenin lokavta başvurmasının usul ve şartları ile kapsam ve istisnaları kanunla düzenlenir.
+Grev hakkı ve lokavt iyiniyet kurallarına aykırı tarzda, toplum zararına ve milli serveti tahrip edecek şekilde kullanılamaz.
+(Mülga üçüncü fıkra: 7/5/2010-5982/7 md.)
+Grev ve lokavtın yasaklanabileceği veya ertelenebileceği haller ve işyerleri kanunla düzenlenir.
+Grev ve lokavtın yasaklandığı hallerde veya ertelendiği durumlarda ertelemenin sonunda, uyuşmazlık Yüksek Hakem Kurulunca çözülür. Uyuşmazlığın her safhasında taraflar da anlaşarak Yüksek Hakem Kuruluna başvurabilir. Yüksek Hakem Kurulunun kararları kesindir ve toplu iş sözleşmesi hükmündedir.
+Yüksek hakem kurulunun kuruluş ve görevleri kanunla düzenlenir.
+(Mülga yedinci fıkra: 7/5/2010-5982/7 md.)
+Greve katılmayanların işyerinde çalışmaları, greve katılanlar tarafından hiç bir şekilde engellenemez.
+
+Kaynak: Türkiye Cumhuriyeti Anayasası - turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m54","Madde 54 – Toplu iş sözleşmesinin yapılması sırasında, uyuşmazlık çıkması halinde işçiler grev hakkına sahiptirler. Bu hakkın kullanılmasının ve işverenin lokavta başvurmasının usul ve şartları ile kapsam ve istisnaları kanunla düzenlenir.
+Grev hakkı ve lokavt iyiniyet kurallarına aykırı tarzda, toplum zararına ve milli serveti tahrip edecek şekilde kullanılamaz.
+(Mülga üçüncü fıkra: 7/5/2010-5982/7 md.)
+Grev ve lokavtın yasaklanabileceği veya ertelenebileceği haller ve işyerleri kanunla düzenlenir.
+Grev ve lokavtın yasaklandığı hallerde veya ertelendiği durumlarda ertelemenin sonunda, uyuşmazlık Yüksek Hakem Kurulunca çözülür. Uyuşmazlığın her safhasında taraflar da anlaşarak Yüksek Hakem Kuruluna başvurabilir. Yüksek Hakem Kurulunun kararları kesindir ve toplu iş sözleşmesi hükmündedir.
+Yüksek hakem kurulunun kuruluş ve görevleri kanunla düzenlenir.
+(Mülga yedinci fıkra: 7/5/2010-5982/7 md.)
+Greve katılmayanların işyerinde çalışmaları, greve katılanlar tarafından hiç bir şekilde engellenemez.
+
+Kaynak: Türkiye Cumhuriyeti Anayasası - turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m54",['turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m54'],"['turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m54', 'turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m52', 'turkish_law_eski_6098_turk_borclar_kanunu_m54', 'oricon_anayasa_000014', 'turkish_law_eski_4721_turk_medeni_kanunu_m54']",1,0,0.9800796812749004,0.9893617021276596,1.0,extractive_guard,True,"[ID: turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m54]
+[SOURCE: Türkiye Cumhuriyeti Anayasası]
+Madde 54 – Toplu iş sözleşmesinin yapılması sırasında, uyuşmazlık çıkması halinde işçiler grev hakkına sahiptirler. Bu hakkın kullanılmasının ve işverenin lokavta başvurmasının usul ve şartları ile kapsam ve istisnaları kanunla düzenlenir.
+Grev hakkı ve lokavt iyiniyet kurallarına aykırı tarzda, toplum zararına ve milli serveti tahrip edecek şekilde kullanılamaz.
+(Mülga üçüncü fıkra: 7/5/2010-5982/7 md.)
+Grev ve lokavtın yasaklanabileceği veya ertelenebileceği haller ve işyerleri kanunla düzenlenir.
+Grev ve lokavtın yasaklandığı hallerde veya ertelendiği durumlarda ertelemenin sonunda, uyuşmazlık Yüksek Hakem Kurulunca çözülür. Uyuşmazlığın her safhasında taraflar da anlaşarak Yüksek Hakem Kuruluna başvurabilir. Yüksek Hakem Kurulunun kararları kesindir ve toplu iş sözleşmesi hükmündedir.
+Yüksek hakem kurulunun kuruluş ve görevleri kanunla düzenlenir.
+(Mülga yedinci fıkra: 7/5/2010-5982/7 md.)
+Greve katılmayanların işyerinde çalışmaları, greve katılanlar tarafından hiç bir şekilde engellenemez."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,7,Ceza Muhakemesi Kanunu m.2 kapsamında “Tanımlar” nasıl düzenlenmiştir?,"Madde 2 – (1) Bu Kanunun uygulanmasında a) Şüpheli: Soruşturma evresinde, suç şüphesi altında bulunan kişiyi, b) Sanık: Kovuşturmanın başlamasından itibaren hükmün kesinleşmesine kadar, suç şüphesi altında bulunan kişiyi, c) Müdafi: Şüpheli veya sanığın ceza muhakemesinde savunmasını yapan avukatı, d) Vekil: Katılan, suçtan zarar gören veya malen sorumlu kişiyi ceza muhakemesinde temsil eden avukatı, e) Soruşturma: Kanuna göre yetkili mercilerce suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar geçen evreyi, f) Kovuşturma: İddianamenin kabulüyle başlayıp, hükmün kesinleşmesine kadar geçen evreyi, g) İfade alma: Şüphelinin kolluk görevlileri veya Cumhuriyet savcısı tarafından soruşturma konusu suçla ilgili olarak dinlenmesini, h) Sorgu: Şüpheli veya sanığın hâkim veya mahkeme tarafından soruşturma veya kovuşturma konusu suçla ilgili olarak dinlenmesini, i) Malen sorumlu: Yargılama konusu işin hükme bağlanması ve bunun kesinleşmesinden sonra, maddî ve malî sorumluluk taşıyarak hükmün sonuçlarından etkilenecek veya bunlara katlanacak kişiyi, j) Suçüstü: 1. İşlenmekte olan suçu, 2. Henüz işlenmiş olan fiil ile fiilin işlenmesinden hemen sonra kolluk, suçtan zarar gören veya başkaları tarafından takip edilerek yakalanan kişinin işlediği suçu, 3. Fiilin pek az önce işlendiğini gösteren eşya veya delille yakalanan kimsenin işlediği suçu, k) Toplu suç: Aralarında iştirak iradesi bulunmasa da üç veya daha fazla kişi tarafından işlenen suçu, l) Disiplin hapsi: Kısmî bir düzeni korumak amacıyla yaptırım altına alınmış olan fiil dolayısıyla verilen, seçenek yaptırımlara çevrilemeyen, önödeme uygulanamayan, tekerrüre esas olmayan, şartla salıverilme hükümleri uygulanamayan, ertelenemeyen ve adlî sicil kayıtlarına geçirilmeyen hapsi, İfade eder.","Madde 275 – (1) Süresi içinde yapılan istinaf başvurusu, hükmün kesinleşmesini engeller.
+(2) (Mülga:2/3/2024-7499/21 md.)
+
+Kaynak: Ceza Muhakemesi Kanunu - turkish_law_eski_5271_ceza_muhakemesi_kanunu_m275","Madde 275 – (1) Süresi içinde yapılan istinaf başvurusu, hükmün kesinleşmesini engeller.
+(2) (Mülga:2/3/2024-7499/21 md.)
+
+Kaynak: Ceza Muhakemesi Kanunu - turkish_law_eski_5271_ceza_muhakemesi_kanunu_m275",['turkish_law_eski_5271_ceza_muhakemesi_kanunu_m2'],"['turkish_law_eski_5271_ceza_muhakemesi_kanunu_m275', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m109_p001', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m308_p001', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m224', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m242']",0,0,0.047999999999999994,0.95,1.0,extractive_guard,True,"[ID: turkish_law_eski_5271_ceza_muhakemesi_kanunu_m275]
+[SOURCE: Ceza Muhakemesi Kanunu]
+Madde 275 – (1) Süresi içinde yapılan istinaf başvurusu, hükmün kesinleşmesini engeller.
+(2) (Mülga:2/3/2024-7499/21 md.)"
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,8,Türk Medenî Kanunu m.86 kapsamında “IV. Denetim kurulu” nasıl düzenlenmiştir?,"Madde 86- Denetim kurulu, üç asıl ve üç yedek üyeden az olmamak üzere dernek tüzüğünde. belirtilen sayıda üyeden oluşur. Denetim kurulu, denetleme görevini, dernek tüzüğünde belirtilen esas ve usullere göre. yapar; denetleme sonuçlarını bir raporla yönetim kuruluna ve genel kurula sunar.","Madde 86- Denetim kurulu, üç asıl ve üç yedek üyeden az olmamak üzere dernek tüzüğünde.
+belirtilen sayıda üyeden oluşur.
+Denetim kurulu, denetleme görevini, dernek tüzüğünde belirtilen esas ve usullere göre.
+yapar; denetleme sonuçlarını bir raporla yönetim kuruluna ve genel kurula sunar.
+D. Sona erme
+
+Kaynak: Türk Medenî Kanunu - turkish_law_eski_4721_turk_medeni_kanunu_m86","Madde 86- Denetim kurulu, üç asıl ve üç yedek üyeden az olmamak üzere dernek tüzüğünde.
+belirtilen sayıda üyeden oluşur.
+Denetim kurulu, denetleme görevini, dernek tüzüğünde belirtilen esas ve usullere göre.
+yapar; denetleme sonuçlarını bir raporla yönetim kuruluna ve genel kurula sunar.
+D. Sona erme
+
+Kaynak: Türk Medenî Kanunu - turkish_law_eski_4721_turk_medeni_kanunu_m86",['turkish_law_eski_4721_turk_medeni_kanunu_m86'],"['turkish_law_eski_4721_turk_medeni_kanunu_m86', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m86', 'yargitay_0923_medeni_hukuk_001', 'turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m86', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m91_p002']",1,0,0.9111111111111111,0.9743589743589743,1.0,extractive_guard,True,"[ID: turkish_law_eski_4721_turk_medeni_kanunu_m86]
+[SOURCE: Türk Medenî Kanunu]
+Madde 86- Denetim kurulu, üç asıl ve üç yedek üyeden az olmamak üzere dernek tüzüğünde.
+belirtilen sayıda üyeden oluşur.
+Denetim kurulu, denetleme görevini, dernek tüzüğünde belirtilen esas ve usullere göre.
+yapar; denetleme sonuçlarını bir raporla yönetim kuruluna ve genel kurula sunar.
+D. Sona erme"
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,9,Bilgi Edinme Hakkı Kanunu m.31 kapsamında “Yönetmelik” nasıl düzenlenmiştir?,"Madde 31- Bu Kanunun uygulanması ile ilgili esas ve usullerin belirlenmesine ilişkin yönetmelik, Kanunun yayımını takip eden altı ay içinde Cumhurbaşkanlığı tarafından hazırlanarak (...)4 yürürlüğe konulur.","Madde 31- Bu Kanunun uygulanması ile ilgili esas ve usullerin belirlenmesine ilişkin yönetmelik, Kanunun yayımını takip eden altı ay içinde Cumhurbaşkanlığı tarafından hazırlanarak (...)4 yürürlüğe konulur.
+
+Kaynak: Bilgi Edinme Hakkı Kanunu - turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m31","Madde 31- Bu Kanunun uygulanması ile ilgili esas ve usullerin belirlenmesine ilişkin yönetmelik, Kanunun yayımını takip eden altı ay içinde Cumhurbaşkanlığı tarafından hazırlanarak (...)4 yürürlüğe konulur.
+
+Kaynak: Bilgi Edinme Hakkı Kanunu - turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m31",['turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m31'],"['turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m31', 'turkish_law_eski_4721_turk_medeni_kanunu_m31', 'yargitay_1295_kadastro_hukuku_001', 'turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m21', 'turkish_law_eski_4721_turk_medeni_kanunu_m141']",1,0,0.896551724137931,0.967741935483871,1.0,extractive_guard,True,"[ID: turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m31]
+[SOURCE: Bilgi Edinme Hakkı Kanunu]
+Madde 31- Bu Kanunun uygulanması ile ilgili esas ve usullerin belirlenmesine ilişkin yönetmelik, Kanunun yayımını takip eden altı ay içinde Cumhurbaşkanlığı tarafından hazırlanarak (...)4 yürürlüğe konulur."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,10,Türk Bayrağı Tüzüğü m.14 kapsamında “Hava araçları” nasıl düzenlenmiştir?,"Madde 14 – Hava araçlarına Bayrak çekilmez. Sivil hava araçlarına, yön dümeninin her iki yanına boyayla al zemin üzerine Bayraktaki oranlara uygun, beyaz renkte ay yıldız resmolunur.","Madde 14 – Hava araçlarına Bayrak çekilmez. Sivil hava araçlarına, yön dümeninin her iki yanına boyayla al zemin üzerine Bayraktaki oranlara uygun, beyaz renkte ay yıldız resmolunur.
+
+Kaynak: Türk Bayrağı Tüzüğü - turkish_law_eski_85_9034_turk_bayragi_tuzugu_m14","Madde 14 – Hava araçlarına Bayrak çekilmez. Sivil hava araçlarına, yön dümeninin her iki yanına boyayla al zemin üzerine Bayraktaki oranlara uygun, beyaz renkte ay yıldız resmolunur.
+
+Kaynak: Türk Bayrağı Tüzüğü - turkish_law_eski_85_9034_turk_bayragi_tuzugu_m14",['turkish_law_eski_85_9034_turk_bayragi_tuzugu_m14'],"['turkish_law_eski_85_9034_turk_bayragi_tuzugu_m14', 'turkish_law_eski_6098_turk_borclar_kanunu_m14', 'turkish_law_eski_4721_turk_medeni_kanunu_m14', 'yargitay_1298_fikri_ve_sinai_mulkiyet_h_001', 'turkish_law_eski_85_9034_turk_bayragi_tuzugu_m1']",1,0,0.9152542372881356,0.9666666666666667,1.0,extractive_guard,True,"[ID: turkish_law_eski_85_9034_turk_bayragi_tuzugu_m14]
+[SOURCE: Türk Bayrağı Tüzüğü]
+Madde 14 – Hava araçlarına Bayrak çekilmez. Sivil hava araçlarına, yön dümeninin her iki yanına boyayla al zemin üzerine Bayraktaki oranlara uygun, beyaz renkte ay yıldız resmolunur."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,11,Türk Borçlar Kanunu m.71 kapsamında “III. Tehlike sorumluluğu ve denkleştirme” nasıl düzenlenmiştir?,"MADDE 71- Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu. takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur. Bir işletmenin, mahiyeti veya faaliyette kullanılan malzeme, araçlar ya da güçler göz. önünde tutulduğunda, bu işlerde uzman bir kişiden beklenen tüm özenin gösterilmesi. durumunda bile sıkça veya ağır zararlar doğurmaya elverişli olduğu sonucuna varılırsa, bunun. önemli ölçüde tehlike arzeden bir işletme olduğu kabul edilir. Özellikle, herhangi bir kanunda. benzeri tehlikeler arzeden işletmeler için özel bir tehlike sorumluluğu öngörülmüşse, bu. işletme de önemli ölçüde tehlike arzeden işletme sayılır. Belirli bir tehlike hâli için öngörülen özel sorumluluk hükümleri saklıdır. Önemli ölçüde tehlike arzeden bir işletmenin bu tür faaliyetine hukuk düzenince izin. verilmiş olsa bile, zarar görenler, bu işletmenin faaliyetinin sebep olduğu zararlarının uygun. bir bedelle denkleştirilmesini isteyebilirler.","MADDE 71- Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu.
+takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur.
+Bir işletmenin, mahiyeti veya faaliyette kullanılan malzeme, araçlar ya da güçler göz.
+önünde tutulduğunda, bu işlerde uzman bir kişiden beklenen tüm özenin gösterilmesi.
+durumunda bile sıkça veya ağır zararlar doğurmaya elverişli olduğu sonucuna varılırsa, bunun.
+önemli ölçüde tehlike arzeden bir işletme olduğu kabul edilir. Özellikle, herhangi bir kanunda.
+benzeri tehlikeler arzeden işletmeler için özel bir tehlike sorumluluğu öngörülmüşse, bu.
+işletme de önemli ölçüde tehlike arzeden işletme sayılır.
+Belirli bir tehlike hâli için öngörülen özel sorumluluk hükümleri saklıdır.
+Önemli ölçüde tehlike arzeden bir işletmenin bu tür faaliyetine hukuk düzenince izin.
+verilmiş olsa bile, zarar görenler, bu işletmenin faaliyetinin sebep olduğu zararlarının uygun.
+bir bedelle denkleştirilmesini isteyebilirler.
+C. Zamanaşımı
+
+Kaynak: Türk Borçlar Kanunu - turkish_law_eski_6098_turk_borclar_kanunu_m71","MADDE 71- Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu.
+takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur.
+Bir işletmenin, mahiyeti veya faaliyette kullanılan malzeme, araçlar ya da güçler göz.
+önünde tutulduğunda, bu işlerde uzman bir kişiden beklenen tüm özenin gösterilmesi.
+durumunda bile sıkça veya ağır zararlar doğurmaya elverişli olduğu sonucuna varılırsa, bunun.
+önemli ölçüde tehlike arzeden bir işletme olduğu kabul edilir. Özellikle, herhangi bir kanunda.
+benzeri tehlikeler arzeden işletmeler için özel bir tehlike sorumluluğu öngörülmüşse, bu.
+işletme de önemli ölçüde tehlike arzeden işletme sayılır.
+Belirli bir tehlike hâli için öngörülen özel sorumluluk hükümleri saklıdır.
+Önemli ölçüde tehlike arzeden bir işletmenin bu tür faaliyetine hukuk düzenince izin.
+verilmiş olsa bile, zarar görenler, bu işletmenin faaliyetinin sebep olduğu zararlarının uygun.
+bir bedelle denkleştirilmesini isteyebilirler.
+C. Zamanaşımı
+
+Kaynak: Türk Borçlar Kanunu - turkish_law_eski_6098_turk_borclar_kanunu_m71",['turkish_law_eski_6098_turk_borclar_kanunu_m71'],"['turkish_law_eski_6098_turk_borclar_kanunu_m71', 'turkish_law_eski_4721_turk_medeni_kanunu_m71', 'turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m71', 'yargitay_1267_ticaret_hukuku_001', 'turkish_law_eski_4721_turk_medeni_kanunu_m303']",1,0,0.972972972972973,0.989247311827957,1.0,extractive_guard,True,"[ID: turkish_law_eski_6098_turk_borclar_kanunu_m71]
+[SOURCE: Türk Borçlar Kanunu]
+MADDE 71- Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu.
+takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur.
+Bir işletmenin, mahiyeti veya faaliyette kullanılan malzeme, araçlar ya da güçler göz.
+önünde tutulduğunda, bu işlerde uzman bir kişiden beklenen tüm özenin gösterilmesi.
+durumunda bile sıkça veya ağır zararlar doğurmaya elverişli olduğu sonucuna varılırsa, bunun.
+önemli ölçüde tehlike arzeden bir işletme olduğu kabul edilir. Özellikle, herhangi bir kanunda.
+benzeri tehlikeler arzeden işletmeler için özel bir tehlike sorumluluğu öngörülmüşse, bu.
+işletme de önemli ölçüde tehlike arzeden işletme sayılır.
+Belirli bir tehlike hâli için öngörülen özel sorumluluk hükümleri saklıdır.
+Önemli ölçüde tehlike arzeden bir işletmenin bu tür faaliyetine hukuk düzenince izin.
+verilmiş olsa bile, zarar görenler, bu işletmenin faaliyetinin sebep olduğu zararlarının uygun.
+bir bedelle denkleştirilmesini isteyebilirler.
+C. Zamanaşımı"
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,12,Türkiye Cumhuriyeti Anayasası m.70 kapsamında “A. Hizmete girme” nasıl düzenlenmiştir?,"Madde 70 – Her Türk, kamu hizmetlerine girme hakkına sahiptir. Hizmete alınmada, görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemez.","Madde 70 – Her Türk, kamu hizmetlerine girme hakkına sahiptir.
+Hizmete alınmada, görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemez.
+
+Kaynak: Türkiye Cumhuriyeti Anayasası - turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m70","Madde 70 – Her Türk, kamu hizmetlerine girme hakkına sahiptir.
+Hizmete alınmada, görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemez.
+
+Kaynak: Türkiye Cumhuriyeti Anayasası - turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m70",['turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m70'],"['turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m70', 'turkish_law_eski_6098_turk_borclar_kanunu_m70', 'turkish_law_eski_4721_turk_medeni_kanunu_m70', 'oricon_ticaret_000208', 'lawchatbot_turkiye_cumhuriyeti_anayasasi_m18']",1,0,0.8837209302325582,0.9583333333333334,1.0,extractive_guard,True,"[ID: turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m70]
+[SOURCE: Türkiye Cumhuriyeti Anayasası]
+Madde 70 – Her Türk, kamu hizmetlerine girme hakkına sahiptir.
+Hizmete alınmada, görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemez."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,13,Ceza Muhakemesi Kanunu m.257 kapsamında “Duruşma ve karar” nasıl düzenlenmiştir?,"Madde 257 – (1) 256 ncı maddeye göre verilmesi gereken kararlar, duruşmalı olarak verilir. (2) Müsadere veya iade olunacak eşya veya diğer malvarlığı değerleri üzerinde hakkı olan kimseler de duruşmaya çağrılır. Bu kişiler, sanığın sahip olduğu hakları kullanabilirler. (3) Çağrıya uymamaları, işlemin ertelenmesine neden olmaz ve hükmün verilmesini engellemez.","Madde 257 – (1) 256 ncı maddeye göre verilmesi gereken kararlar, duruşmalı olarak verilir.
+(2) Müsadere veya iade olunacak eşya veya diğer malvarlığı değerleri üzerinde hakkı olan kimseler de duruşmaya çağrılır. Bu kişiler, sanığın sahip olduğu hakları kullanabilirler.
+(3) Çağrıya uymamaları, işlemin ertelenmesine neden olmaz ve hükmün verilmesini engellemez.
+
+Kaynak: Ceza Muhakemesi Kanunu - turkish_law_eski_5271_ceza_muhakemesi_kanunu_m257","Madde 257 – (1) 256 ncı maddeye göre verilmesi gereken kararlar, duruşmalı olarak verilir.
+(2) Müsadere veya iade olunacak eşya veya diğer malvarlığı değerleri üzerinde hakkı olan kimseler de duruşmaya çağrılır. Bu kişiler, sanığın sahip olduğu hakları kullanabilirler.
+(3) Çağrıya uymamaları, işlemin ertelenmesine neden olmaz ve hükmün verilmesini engellemez.
+
+Kaynak: Ceza Muhakemesi Kanunu - turkish_law_eski_5271_ceza_muhakemesi_kanunu_m257",['turkish_law_eski_5271_ceza_muhakemesi_kanunu_m257'],"['turkish_law_eski_5271_ceza_muhakemesi_kanunu_m257', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m258', 'turkish_law_eski_4721_turk_medeni_kanunu_m257', 'yargitay_0059_medeni_usul_hukuku_001', 'yargitay_0720_medeni_usul_hukuku_001']",1,0,0.9514563106796117,0.9811320754716981,1.0,extractive_guard,True,"[ID: turkish_law_eski_5271_ceza_muhakemesi_kanunu_m257]
+[SOURCE: Ceza Muhakemesi Kanunu]
+Madde 257 – (1) 256 ncı maddeye göre verilmesi gereken kararlar, duruşmalı olarak verilir.
+(2) Müsadere veya iade olunacak eşya veya diğer malvarlığı değerleri üzerinde hakkı olan kimseler de duruşmaya çağrılır. Bu kişiler, sanığın sahip olduğu hakları kullanabilirler.
+(3) Çağrıya uymamaları, işlemin ertelenmesine neden olmaz ve hükmün verilmesini engellemez."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,14,Türk Medenî Kanunu m.363 kapsamında “II. Ana ve babanın sorumluluğu” nasıl düzenlenmiştir?,"Madde 363- Ana ve baba, çocuk mallarının geri verilmesinde vekil gibi sorumludurlar. Dürüstlük kuralına uygun olarak başkasına devrettikleri malların yerine sadece aldıkları. karşılığı geri vermekle yükümlüdürler. Kanuna uygun olarak çocuk veya aile için yaptıkları harcamalardan dolayı tazminatla. yükümlü tutulmazlar.","Madde 363- Ana ve baba, çocuk mallarının geri verilmesinde vekil gibi sorumludurlar.
+Dürüstlük kuralına uygun olarak başkasına devrettikleri malların yerine sadece aldıkları.
+karşılığı geri vermekle yükümlüdürler.
+Kanuna uygun olarak çocuk veya aile için yaptıkları harcamalardan dolayı tazminatla.
+yükümlü tutulmazlar.
+
+Kaynak: Türk Medenî Kanunu - turkish_law_eski_4721_turk_medeni_kanunu_m363","Madde 363- Ana ve baba, çocuk mallarının geri verilmesinde vekil gibi sorumludurlar.
+Dürüstlük kuralına uygun olarak başkasına devrettikleri malların yerine sadece aldıkları.
+karşılığı geri vermekle yükümlüdürler.
+Kanuna uygun olarak çocuk veya aile için yaptıkları harcamalardan dolayı tazminatla.
+yükümlü tutulmazlar.
+
+Kaynak: Türk Medenî Kanunu - turkish_law_eski_4721_turk_medeni_kanunu_m363",['turkish_law_eski_4721_turk_medeni_kanunu_m363'],"['turkish_law_eski_4721_turk_medeni_kanunu_m363', 'turkish_law_eski_4721_turk_medeni_kanunu_m363_dup2', 'yargitay_0845_icra_ve_iflas_hukuku_001', 'turkish_law_eski_6098_turk_borclar_kanunu_m363', 'turkish_law_eski_4721_turk_medeni_kanunu_m21']",1,0,0.9397590361445783,0.975,1.0,extractive_guard,True,"[ID: turkish_law_eski_4721_turk_medeni_kanunu_m363]
+[SOURCE: Türk Medenî Kanunu]
+Madde 363- Ana ve baba, çocuk mallarının geri verilmesinde vekil gibi sorumludurlar.
+Dürüstlük kuralına uygun olarak başkasına devrettikleri malların yerine sadece aldıkları.
+karşılığı geri vermekle yükümlüdürler.
+Kanuna uygun olarak çocuk veya aile için yaptıkları harcamalardan dolayı tazminatla.
+yükümlü tutulmazlar."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,15,Bilgi Edinme Hakkı Kanunu m.28 kapsamında “Gizliliği kaldırılan bilgi veya belgeler” nasıl düzenlenmiştir?,"Madde 28- Gizliliği kaldırılmış olan bilgi veya belgeler, bu Kanunda belirtilen diğer istisnalar kapsamına girmiyor ise, bilgi edinme başvurularına açık hâle gelir.","Madde 28- Gizliliği kaldırılmış olan bilgi veya belgeler, bu Kanunda belirtilen diğer istisnalar kapsamına girmiyor ise, bilgi edinme başvurularına açık hâle gelir.
+
+Kaynak: Bilgi Edinme Hakkı Kanunu - turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m28","Madde 28- Gizliliği kaldırılmış olan bilgi veya belgeler, bu Kanunda belirtilen diğer istisnalar kapsamına girmiyor ise, bilgi edinme başvurularına açık hâle gelir.
+
+Kaynak: Bilgi Edinme Hakkı Kanunu - turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m28",['turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m28'],"['turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m28', 'turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m22', 'turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m21', 'turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m18', 'turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m16']",1,0,0.88,0.96,1.0,extractive_guard,True,"[ID: turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m28]
+[SOURCE: Bilgi Edinme Hakkı Kanunu]
+Madde 28- Gizliliği kaldırılmış olan bilgi veya belgeler, bu Kanunda belirtilen diğer istisnalar kapsamına girmiyor ise, bilgi edinme başvurularına açık hâle gelir."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,16,Türk Bayrağı Tüzüğü m.9 kapsamında “Sürekli Bayrak çekilecek yerler” nasıl düzenlenmiştir?,"Madde 9 – (Değişik: 22/2/2001 - 2001/2130 K.) Bayrağın sürekli çekili kalacağı kuruluşlar aşağıda gösterilmiştir. A) Cumhurbaşkanlığı, B) Türkiye Büyük Millet Meclisi, C) Anıtkabir, D) Hükümet konakları, E) Polis, Jandarma, hudut, gümrük muhafaza karakollarıyla hudut kapıları. F) Bağımsız takım ve bölükler ile daha üst askeri birlik veya karargahlar, G) Eğitim ve öğretim kurumları, H) Köy ve mahalle muhtarlıkları, İ) Yukarıda gösterilenler dışındaki kamu kurum ve kuruluşları, J) Kamu kurum ve kuruluşlarına ait fabrika ve işletmeler. Her gün Bayrak çekilecek yerler.","Madde 9 – (Değişik: 22/2/2001 - 2001/2130 K.)
+Bayrağın sürekli çekili kalacağı kuruluşlar aşağıda gösterilmiştir.
+A) Cumhurbaşkanlığı,
+B) Türkiye Büyük Millet Meclisi,
+C) Anıtkabir,
+D) Hükümet konakları,
+E) Polis, Jandarma, hudut, gümrük muhafaza karakollarıyla hudut kapıları.
+F) Bağımsız takım ve bölükler ile daha üst askeri birlik veya karargahlar,
+G) Eğitim ve öğretim kurumları,
+H) Köy ve mahalle muhtarlıkları,
+İ) Yukarıda gösterilenler dışındaki kamu kurum ve kuruluşları,
+J) Kamu kurum ve kuruluşlarına ait fabrika ve işletmeler.
+Her gün Bayrak çekilecek yerler.
+
+Kaynak: Türk Bayrağı Tüzüğü - turkish_law_eski_85_9034_turk_bayragi_tuzugu_m9","Madde 9 – (Değişik: 22/2/2001 - 2001/2130 K.)
+Bayrağın sürekli çekili kalacağı kuruluşlar aşağıda gösterilmiştir.
+A) Cumhurbaşkanlığı,
+B) Türkiye Büyük Millet Meclisi,
+C) Anıtkabir,
+D) Hükümet konakları,
+E) Polis, Jandarma, hudut, gümrük muhafaza karakollarıyla hudut kapıları.
+F) Bağımsız takım ve bölükler ile daha üst askeri birlik veya karargahlar,
+G) Eğitim ve öğretim kurumları,
+H) Köy ve mahalle muhtarlıkları,
+İ) Yukarıda gösterilenler dışındaki kamu kurum ve kuruluşları,
+J) Kamu kurum ve kuruluşlarına ait fabrika ve işletmeler.
+Her gün Bayrak çekilecek yerler.
+
+Kaynak: Türk Bayrağı Tüzüğü - turkish_law_eski_85_9034_turk_bayragi_tuzugu_m9",['turkish_law_eski_85_9034_turk_bayragi_tuzugu_m9'],"['turkish_law_eski_85_9034_turk_bayragi_tuzugu_m9', 'turkish_law_eski_85_9034_turk_bayragi_tuzugu_m10', 'turkish_law_eski_85_9034_turk_bayragi_tuzugu_m11', 'turkish_law_eski_85_9034_turk_bayragi_tuzugu_m1', 'turkish_law_eski_85_9034_turk_bayragi_tuzugu_m5']",1,0,0.9693251533742331,0.9868421052631579,1.0,extractive_guard,True,"[ID: turkish_law_eski_85_9034_turk_bayragi_tuzugu_m9]
+[SOURCE: Türk Bayrağı Tüzüğü]
+Madde 9 – (Değişik: 22/2/2001 - 2001/2130 K.)
+Bayrağın sürekli çekili kalacağı kuruluşlar aşağıda gösterilmiştir.
+A) Cumhurbaşkanlığı,
+B) Türkiye Büyük Millet Meclisi,
+C) Anıtkabir,
+D) Hükümet konakları,
+E) Polis, Jandarma, hudut, gümrük muhafaza karakollarıyla hudut kapıları.
+F) Bağımsız takım ve bölükler ile daha üst askeri birlik veya karargahlar,
+G) Eğitim ve öğretim kurumları,
+H) Köy ve mahalle muhtarlıkları,
+İ) Yukarıda gösterilenler dışındaki kamu kurum ve kuruluşları,
+J) Kamu kurum ve kuruluşlarına ait fabrika ve işletmeler.
+Her gün Bayrak çekilecek yerler."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,17,Türk Borçlar Kanunu m.331 kapsamında “1. Önemli sebepler2” nasıl düzenlenmiştir?,"MADDE 331- Taraflardan her biri, kira ilişkisinin devamını kendisi için çekilmez hâle. getiren önemli sebeplerin varlığı durumunda, sözleşmeyi yasal fesih bildirim süresine uyarak. her zaman feshedebilir. Hâkim, durum ve koşulları göz önünde tutarak, olağanüstü fesih bildiriminin parasal. sonuçlarını karara bağlar.","MADDE 331- Taraflardan her biri, kira ilişkisinin devamını kendisi için çekilmez hâle.
+getiren önemli sebeplerin varlığı durumunda, sözleşmeyi yasal fesih bildirim süresine uyarak.
+her zaman feshedebilir.
+Hâkim, durum ve koşulları göz önünde tutarak, olağanüstü fesih bildiriminin parasal.
+sonuçlarını karara bağlar.
+
+Kaynak: Türk Borçlar Kanunu - turkish_law_eski_6098_turk_borclar_kanunu_m331","MADDE 331- Taraflardan her biri, kira ilişkisinin devamını kendisi için çekilmez hâle.
+getiren önemli sebeplerin varlığı durumunda, sözleşmeyi yasal fesih bildirim süresine uyarak.
+her zaman feshedebilir.
+Hâkim, durum ve koşulları göz önünde tutarak, olağanüstü fesih bildiriminin parasal.
+sonuçlarını karara bağlar.
+
+Kaynak: Türk Borçlar Kanunu - turkish_law_eski_6098_turk_borclar_kanunu_m331",['turkish_law_eski_6098_turk_borclar_kanunu_m331'],"['turkish_law_eski_6098_turk_borclar_kanunu_m331', 'yargitay_0837_aile_hukuku_001', 'yargitay_0947_borclar_hukuku_001', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m153_p001', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m140_p001']",1,0,0.9411764705882353,0.9767441860465116,1.0,extractive_guard,True,"[ID: turkish_law_eski_6098_turk_borclar_kanunu_m331]
+[SOURCE: Türk Borçlar Kanunu]
+MADDE 331- Taraflardan her biri, kira ilişkisinin devamını kendisi için çekilmez hâle.
+getiren önemli sebeplerin varlığı durumunda, sözleşmeyi yasal fesih bildirim süresine uyarak.
+her zaman feshedebilir.
+Hâkim, durum ve koşulları göz önünde tutarak, olağanüstü fesih bildiriminin parasal.
+sonuçlarını karara bağlar."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,18,Türkiye Cumhuriyeti Anayasası m.69 kapsamında “B. Siyasi partilerin uyacakları esaslar” nasıl düzenlenmiştir?,"Türkiye Cumhuriyeti Anayasası Madde 69 - B. Siyasi partilerin uyacakları esaslar (devam) (Değişik fıkra: 3/10/2001-4709/25 md.) Siyasî partilerin kuruluş ve çalışmaları, denetlenmeleri, kapatılmaları ya da Devlet yardımından kısmen veya tamamen yoksun bırakılmaları ile siyasî partilerin ve adayların seçim harcamaları ve usulleri yukarıdaki esaslar çerçevesinde kanunla düzenlenir. İKİNCİ KISIM","Türkiye Cumhuriyeti Anayasası Madde 69 - B. Siyasi partilerin uyacakları esaslar (devam)
+(Değişik fıkra: 3/10/2001-4709/25 md.) Siyasî partilerin kuruluş ve çalışmaları, denetlenmeleri, kapatılmaları ya da Devlet yardımından kısmen veya tamamen yoksun bırakılmaları ile siyasî partilerin ve adayların seçim harcamaları ve usulleri yukarıdaki esaslar çerçevesinde kanunla düzenlenir.
+İKİNCİ KISIM
+
+Kaynak: Türkiye Cumhuriyeti Anayasası - turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m69_p003","Türkiye Cumhuriyeti Anayasası Madde 69 - B. Siyasi partilerin uyacakları esaslar (devam)
+(Değişik fıkra: 3/10/2001-4709/25 md.) Siyasî partilerin kuruluş ve çalışmaları, denetlenmeleri, kapatılmaları ya da Devlet yardımından kısmen veya tamamen yoksun bırakılmaları ile siyasî partilerin ve adayların seçim harcamaları ve usulleri yukarıdaki esaslar çerçevesinde kanunla düzenlenir.
+İKİNCİ KISIM
+
+Kaynak: Türkiye Cumhuriyeti Anayasası - turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m69_p003",['turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m69_p003'],"['turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m69_p003', 'turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m69_p001', 'turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m69_p002', 'turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m68', 'turkish_law_eski_4721_turk_medeni_kanunu_m69']",1,0,0.9494949494949495,0.9767441860465116,1.0,extractive_guard,True,"[ID: turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m69_p003]
+[SOURCE: Türkiye Cumhuriyeti Anayasası]
+Türkiye Cumhuriyeti Anayasası Madde 69 - B. Siyasi partilerin uyacakları esaslar (devam)
+(Değişik fıkra: 3/10/2001-4709/25 md.) Siyasî partilerin kuruluş ve çalışmaları, denetlenmeleri, kapatılmaları ya da Devlet yardımından kısmen veya tamamen yoksun bırakılmaları ile siyasî partilerin ve adayların seçim harcamaları ve usulleri yukarıdaki esaslar çerçevesinde kanunla düzenlenir.
+İKİNCİ KISIM"
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,19,Ceza Muhakemesi Kanunu m.156 kapsamında “Müdafiin görevlendirilmesinde usul” nasıl düzenlenmiştir?,"Madde 156 – (1) 150 nci maddede yazılı olan hâllerde, müdafi a) Soruşturma evresinde, ifadeyi alan merciin veya sorguyu yapan hâkimin istemi üzerine, b) Kovuşturma evresinde, mahkemenin istemi üzerine, Baro tarafından görevlendirilir. (2) Yukarıda belirtilen hâllerde müdafi soruşturmanın veya kovuşturmanın yapıldığı yer barosunca görevlendirilir. (3) Şüpheli veya sanığın kendisinin sonradan müdafi seçmesi halinde, baro tarafından görevlendirilen avukatın görevi sona erer.","Madde 156 – (1) 150 nci maddede yazılı olan hâllerde, müdafi
+a) Soruşturma evresinde, ifadeyi alan merciin veya sorguyu yapan hâkimin istemi üzerine,
+b) Kovuşturma evresinde, mahkemenin istemi üzerine,
+Baro tarafından görevlendirilir.
+(2) Yukarıda belirtilen hâllerde müdafi soruşturmanın veya kovuşturmanın yapıldığı yer barosunca görevlendirilir.
+(3) Şüpheli veya sanığın kendisinin sonradan müdafi seçmesi halinde, baro tarafından görevlendirilen avukatın görevi sona erer.
+
+Kaynak: Ceza Muhakemesi Kanunu - turkish_law_eski_5271_ceza_muhakemesi_kanunu_m156","Madde 156 – (1) 150 nci maddede yazılı olan hâllerde, müdafi
+a) Soruşturma evresinde, ifadeyi alan merciin veya sorguyu yapan hâkimin istemi üzerine,
+b) Kovuşturma evresinde, mahkemenin istemi üzerine,
+Baro tarafından görevlendirilir.
+(2) Yukarıda belirtilen hâllerde müdafi soruşturmanın veya kovuşturmanın yapıldığı yer barosunca görevlendirilir.
+(3) Şüpheli veya sanığın kendisinin sonradan müdafi seçmesi halinde, baro tarafından görevlendirilen avukatın görevi sona erer.
+
+Kaynak: Ceza Muhakemesi Kanunu - turkish_law_eski_5271_ceza_muhakemesi_kanunu_m156",['turkish_law_eski_5271_ceza_muhakemesi_kanunu_m156'],"['turkish_law_eski_5271_ceza_muhakemesi_kanunu_m156', 'turkish_law_eski_4721_turk_medeni_kanunu_m156', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m222', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m266', 'turkish_law_eski_5271_ceza_muhakemesi_kanunu_m136']",1,0,0.9600000000000001,0.9814814814814815,1.0,extractive_guard,True,"[ID: turkish_law_eski_5271_ceza_muhakemesi_kanunu_m156]
+[SOURCE: Ceza Muhakemesi Kanunu]
+Madde 156 – (1) 150 nci maddede yazılı olan hâllerde, müdafi
+a) Soruşturma evresinde, ifadeyi alan merciin veya sorguyu yapan hâkimin istemi üzerine,
+b) Kovuşturma evresinde, mahkemenin istemi üzerine,
+Baro tarafından görevlendirilir.
+(2) Yukarıda belirtilen hâllerde müdafi soruşturmanın veya kovuşturmanın yapıldığı yer barosunca görevlendirilir.
+(3) Şüpheli veya sanığın kendisinin sonradan müdafi seçmesi halinde, baro tarafından görevlendirilen avukatın görevi sona erer."
+System 5B - BM25 + Extractive Guard + Fine-tuned Qwen Fallback,20,Türk Medenî Kanunu m.317 kapsamında “1. Rızanın bulunmaması” nasıl düzenlenmiştir?,"Madde 317- Yasal sebep bulunmaksızın rıza alınmamışsa, rızası alınması gereken kişiler, küçüğün menfaati bunun sonucunda ağır biçimde zedelenmeyecekse, hâkimden evlâtlık ilişkisinin. kaldırılmasını isteyebilirler.","Madde 317- Yasal sebep bulunmaksızın rıza alınmamışsa, rızası alınması gereken kişiler,
+küçüğün menfaati bunun sonucunda ağır biçimde zedelenmeyecekse, hâkimden evlâtlık ilişkisinin.
+kaldırılmasını isteyebilirler.
+
+Kaynak: Türk Medenî Kanunu - turkish_law_eski_4721_turk_medeni_kanunu_m317","Madde 317- Yasal sebep bulunmaksızın rıza alınmamışsa, rızası alınması gereken kişiler,
+küçüğün menfaati bunun sonucunda ağır biçimde zedelenmeyecekse, hâkimden evlâtlık ilişkisinin.
+kaldırılmasını isteyebilirler.
+
+Kaynak: Türk Medenî Kanunu - turkish_law_eski_4721_turk_medeni_kanunu_m317",['turkish_law_eski_4721_turk_medeni_kanunu_m317'],"['turkish_law_eski_4721_turk_medeni_kanunu_m317', 'turkish_law_eski_6098_turk_borclar_kanunu_m317', 'yargitay_0035_medeni_usul_hukuku_001', 'yargitay_0035_medeni_usul_hukuku_002', 'oricon_genel_000130']",1,0,0.9019607843137255,0.9642857142857143,1.0,extractive_guard,True,"[ID: turkish_law_eski_4721_turk_medeni_kanunu_m317]
+[SOURCE: Türk Medenî Kanunu]
+Madde 317- Yasal sebep bulunmaksızın rıza alınmamışsa, rızası alınması gereken kişiler,
+küçüğün menfaati bunun sonucunda ağır biçimde zedelenmeyecekse, hâkimden evlâtlık ilişkisinin.
+kaldırılmasını isteyebilirler."

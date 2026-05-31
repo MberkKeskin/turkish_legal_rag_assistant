@@ -1,0 +1,6 @@
+System,Retrieval_R,Answer_A_penalized_F1,Grounding_G_penalized_Faithfulness,Final_Rubric_Score,Raw_F1,Raw_Faithfulness,EM
+System 1 - Base BGE-M3 + Qwen2.5-3B,0.75,0.383326,0.508455,0.542944,0.38854,0.596491,0.0
+System 2 - Fine-tuned BGE-M3 + Qwen2.5-3B,0.8,0.314288,0.511997,0.533714,0.325597,0.573866,0.0
+System 3 - BM25 Only + Qwen2.5-3B,0.95,0.605512,0.694651,0.748367,0.606341,0.740105,0.0
+System 4 - BM25 + BGE Reranker + Law-aware Protection + Qwen2.5-3B,0.95,0.51701,0.727637,0.721213,0.51701,0.727637,0.0
+System 5 - BM25 + Extractive Guard Only,0.95,0.8820025742241709,0.927493622648381,0.9171744353517637,0.884402574224171,0.9749936226483811,0.0

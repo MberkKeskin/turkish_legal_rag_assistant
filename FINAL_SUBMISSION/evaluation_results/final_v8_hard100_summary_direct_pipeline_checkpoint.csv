@@ -1,0 +1,2 @@
+System,n,Recall@1,Recall@3,Recall@5,MRR,EM,Token_F1,ROUGE1_F,ROUGEL_F,BLEU,Faithfulness,Hallucination_Risk,Citation_Accuracy,Bad_Answer_Rate,Retry_Rate,Retrieval_R,Answer_A_penalized_F1,Grounding_G_penalized_Faithfulness,Final_Rubric_Score
+Final v8 checkpoint - Source-specific Retrieval v7 + v4 Reranker + top3_plus_8_9 + Selector v2 + Faithful LLM,100,0.6,0.82,0.85,0.7031666666666665,0.0,0.571906697099206,0.5709520746236655,0.5213116065999123,0.3193727481943147,0.9409504556206069,0.059049544379393006,0.85,0.0,0.0,0.85,0.4861206925343251,0.7998078872775158,0.7075846085702685

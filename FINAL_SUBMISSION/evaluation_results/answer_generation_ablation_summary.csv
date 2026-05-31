@@ -1,0 +1,5 @@
+Stage,System,Token_F1,ROUGE1_F,ROUGEL_F,BLEU,Faithfulness,Hallucination_Risk,Citation_Accuracy,Final_Rubric_Score,Notes,Source_File
+A1,System2 answer evaluation 20,,,,,,,,0.560441266378577,Early LLM answer evaluation on 20-question sample,testResults/system2_answer_eval_20_smart_summary.csv
+A2,System5a LLM final summary 20,,,,,,,1.0,0.7425475480979624,Later LLM generation evaluation,testResults/system5a_llm_final_summary_20.csv
+A3,System5b guarded final summary 20,,,,,,,1.0,0.9164373091059164,Guarded/faithfulness-oriented LLM evaluation,testResults/system5b_guarded_final_summary_20.csv
+A4,Final v8 Hard100 end-to-end,0.571906697099206,0.5709520746236655,0.5213116065999123,0.3193727481943147,0.9409504556206068,0.059049544379393,0.85,0.7075846085702685,Final system end-to-end evaluation,testResults/final_best_system_v8/final_v8_hard100_summary_direct_pipeline_checkpoint.csv

@@ -1,0 +1,392 @@
+[
+  {
+    "question_id": "real_bench_001",
+    "question": "Kiracı kira bedelini her ay ne zaman ödemekle yükümlüdür?",
+    "verified_answer": "Kiracı, aksine sözleşme ve yerel âdet olmadıkça, kira bedelini ve gerekiyorsa yan giderleri, her ayın sonunda ve en geç kira süresinin bitiminde ödemekle yükümlüdür.",
+    "gold_sources": [
+      "turkish_law_eski_6098_turk_borclar_kanunu_m314"
+    ],
+    "answer_type": "factual_single_source",
+    "difficulty": "easy",
+    "question_type": "practical",
+    "law": "Türk Borçlar Kanunu",
+    "notes": "Madde numarası soruda yok. Kiracının ödeme zamanını soruyor."
+  },
+  {
+    "question_id": "real_bench_002",
+    "question": "Kira sözleşmesi taraflarından biri, devam etmesi kendisi için çekilmez hale gelmişse ne yapabilir?",
+    "verified_answer": "Taraflardan her biri, kira ilişkisinin devamını kendisi için çekilmez hâle getiren önemli sebeplerin varlığı durumunda, sözleşmeyi yasal fesih bildirim süresine uyarak her zaman feshedebilir. Hâkim, durum ve koşulları göz önünde tutarak, olağanüstü fesih bildiriminin parasal sonuçlarını karara bağlar.",
+    "gold_sources": [
+      "turkish_law_eski_6098_turk_borclar_kanunu_m331"
+    ],
+    "answer_type": "factual_single_source",
+    "difficulty": "easy",
+    "question_type": "practical",
+    "law": "Türk Borçlar Kanunu",
+    "notes": "Olağanüstü fesih hakkı. Madde numarası yok."
+  },
+  {
+    "question_id": "real_bench_003",
+    "question": "Tehlikeli bir işletmenin faaliyetinden zarar doğması durumunda kim sorumludur?",
+    "verified_answer": "Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur.",
+    "gold_sources": [
+      "turkish_law_eski_6098_turk_borclar_kanunu_m71"
+    ],
+    "answer_type": "factual_single_source",
+    "difficulty": "medium",
+    "question_type": "who_is_liable",
+    "law": "Türk Borçlar Kanunu",
+    "notes": "Tehlike sorumluluğu. Sorumluluk tespiti gerektiriyor."
+  },
+  {
+    "question_id": "real_bench_004",
+    "question": "Bir işletmenin 'önemli ölçüde tehlike arzeden işletme' sayılması için hangi koşulun gerçekleşmesi gerekir?",
+    "verified_answer": "Bir işletmenin, mahiyeti veya faaliyette kullanılan malzeme, araçlar ya da güçler göz önünde tutulduğunda, bu işlerde uzman bir kişiden beklenen tüm özenin gösterilmesi durumunda bile sıkça veya ağır zararlar doğurmaya elverişli olduğu sonucuna varılırsa, bunun önemli ölçüde tehlike arzeden bir işletme olduğu kabul edilir.",
+    "gold_sources": [
+      "turkish_law_eski_6098_turk_borclar_kanunu_m71"
+    ],
+    "answer_type": "condition_based",
+    "difficulty": "hard",
+    "question_type": "definition_condition",
+    "law": "Türk Borçlar Kanunu",
+    "notes": "Aynı maddeden farklı bir boyut soruluyor. Sistemi zorlayan detay sorusu."
+  },
+  {
+    "question_id": "real_bench_005",
+    "question": "Evli olmayan bir kişi tek başına evlat edinebilir mi? Varsa yaş şartı nedir?",
+    "verified_answer": "Evli olmayan kişi otuz yaşını doldurmuş ise tek başına evlât edinebilir.",
+    "gold_sources": [
+      "turkish_law_eski_4721_turk_medeni_kanunu_m307"
+    ],
+    "answer_type": "factual_single_source",
+    "difficulty": "easy",
+    "question_type": "yes_no_with_condition",
+    "law": "Türk Medeni Kanunu",
+    "notes": "Yaş şartı sorgulanıyor, madde numarası yok."
+  },
+  {
+    "question_id": "real_bench_006",
+    "question": "Evli olan bir kişi, eşiyle birlikte evlat edinmek mümkün olmadığında tek başına evlat edinebilir mi?",
+    "verified_answer": "Otuz yaşını doldurmuş olan eş, diğer eşin ayırt etme gücünden sürekli olarak yoksunluğu veya iki yılı aşkın süreden beri nerede olduğunun bilinmemesi ya da mahkeme kararıyla iki yılı aşkın süreden beri eşinden ayrı yaşamakta olması yüzünden birlikte evlât edinmesinin mümkün olmadığını ispat etmesi hâlinde, tek başına evlât edinebilir.",
+    "gold_sources": [
+      "turkish_law_eski_4721_turk_medeni_kanunu_m307"
+    ],
+    "answer_type": "condition_based",
+    "difficulty": "hard",
+    "question_type": "exception_case",
+    "law": "Türk Medeni Kanunu",
+    "notes": "Aynı maddedeki istisna hali. Daha derin okuma gerektiriyor."
+  },
+  {
+    "question_id": "real_bench_007",
+    "question": "Dernek denetim kurulunun raporunu kime sunması gerekir?",
+    "verified_answer": "Denetim kurulu, denetleme görevini dernek tüzüğünde belirtilen esas ve usullere göre yapar; denetleme sonuçlarını bir raporla yönetim kuruluna ve genel kurula sunar.",
+    "gold_sources": [
+      "turkish_law_eski_4721_turk_medeni_kanunu_m86"
+    ],
+    "answer_type": "factual_single_source",
+    "difficulty": "easy",
+    "question_type": "procedural",
+    "law": "Türk Medeni Kanunu",
+    "notes": "Dernek hukuku. Pratik soru."
+  },
+  {
+    "question_id": "real_bench_008",
+    "question": "Ana ve babanın çocuk mallarını iade ederken dürüstlük kuralına uygun biçimde başkasına devrettikleri mallar için sorumlulukları nedir?",
+    "verified_answer": "Ana ve baba, çocuk mallarının geri verilmesinde vekil gibi sorumludurlar. Dürüstlük kuralına uygun olarak başkasına devrettikleri malların yerine sadece aldıkları karşılığı geri vermekle yükümlüdürler.",
+    "gold_sources": [
+      "turkish_law_eski_4721_turk_medeni_kanunu_m363"
+    ],
+    "answer_type": "factual_single_source",
+    "difficulty": "medium",
+    "question_type": "liability_scope",
+    "law": "Türk Medeni Kanunu",
+    "notes": "Velayet malları iadesi. Orta zorluk."
+  },
+  {
+    "question_id": "real_bench_009",
+    "question": "Yasal sebep olmaksızın rızası alınmadan gerçekleştirilen evlat edinme işlemine karşı ne yapılabilir?",
+    "verified_answer": "Yasal sebep bulunmaksızın rıza alınmamışsa, rızası alınması gereken kişiler, küçüğün menfaati bunun sonucunda ağır biçimde zedelenmeyecekse, hâkimden evlâtlık ilişkisinin kaldırılmasını isteyebilirler.",
+    "gold_sources": [
+      "turkish_law_eski_4721_turk_medeni_kanunu_m317"
+    ],
+    "answer_type": "remedy_based",
+    "difficulty": "medium",
+    "question_type": "legal_remedy",
+    "law": "Türk Medeni Kanunu",
+    "notes": "Evlatlık ilişkisinin kaldırılması. Pratik senaryo."
+  },
+  {
+    "question_id": "real_bench_010",
+    "question": "Ceza muhakemesinde 'şüpheli' ile 'sanık' arasındaki fark nedir?",
+    "verified_answer": "Şüpheli, soruşturma evresinde suç şüphesi altında bulunan kişiyi ifade eder. Sanık ise kovuşturmanın başlamasından itibaren hükmün kesinleşmesine kadar suç şüphesi altında bulunan kişiyi ifade eder.",
+    "gold_sources": [
+      "turkish_law_eski_5271_ceza_muhakemesi_kanunu_m2"
+    ],
+    "answer_type": "comparison",
+    "difficulty": "medium",
+    "question_type": "definition_comparison",
+    "law": "Ceza Muhakemesi Kanunu",
+    "notes": "İki kavramı karşılaştırma. Sınavda çok sorulan pratik fark sorusu."
+  },
+  {
+    "question_id": "real_bench_011",
+    "question": "Ceza muhakemesinde müdafi kimdir?",
+    "verified_answer": "Müdafi, şüpheli veya sanığın ceza muhakemesinde savunmasını yapan avukattır.",
+    "gold_sources": [
+      "turkish_law_eski_5271_ceza_muhakemesi_kanunu_m2"
+    ],
+    "answer_type": "definition",
+    "difficulty": "easy",
+    "question_type": "definition",
+    "law": "Ceza Muhakemesi Kanunu",
+    "notes": "Tanım sorusu, madde numarası yok."
+  },
+  {
+    "question_id": "real_bench_012",
+    "question": "Ceza muhakemesinde 'kovuşturma' hangi aşamada başlar ve ne zaman sona erer?",
+    "verified_answer": "Kovuşturma, iddianamenin kabulüyle başlayıp hükmün kesinleşmesine kadar geçen evreyi ifade eder.",
+    "gold_sources": [
+      "turkish_law_eski_5271_ceza_muhakemesi_kanunu_m2"
+    ],
+    "answer_type": "process_boundaries",
+    "difficulty": "medium",
+    "question_type": "procedural_timeline",
+    "law": "Ceza Muhakemesi Kanunu",
+    "notes": "Süreç başlangıç-bitiş sorusu. Birden fazla bilgi parçası gerekiyor."
+  },
+  {
+    "question_id": "real_bench_013",
+    "question": "Mahkeme, hüküm verirken fiilin hukuki nitelendirmesinde savcılığın iddiasıyla bağlı mıdır?",
+    "verified_answer": "Hayır. Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir. Ancak hüküm, yalnızca iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilebilir.",
+    "gold_sources": [
+      "turkish_law_eski_5271_ceza_muhakemesi_kanunu_m225"
+    ],
+    "answer_type": "yes_no_explanation",
+    "difficulty": "medium",
+    "question_type": "procedural_constraint",
+    "law": "Ceza Muhakemesi Kanunu",
+    "notes": "Evet/hayır + açıklama gerektiriyor. Mahkemenin bağımsızlık sınırı."
+  },
+  {
+    "question_id": "real_bench_014",
+    "question": "Müsadereye ilişkin kararlar nasıl verilir ve ilgili kişiler bu süreçte nasıl yer alır?",
+    "verified_answer": "Müsadere veya iade olunacak eşya ya da diğer malvarlığı değerleri üzerinde hakkı olan kimseler duruşmaya çağrılır; bu kişiler sanığın sahip olduğu hakları kullanabilirler. Çağrıya uymamaları işlemin ertelenmesine neden olmaz ve hükmün verilmesini engellemez.",
+    "gold_sources": [
+      "turkish_law_eski_5271_ceza_muhakemesi_kanunu_m257"
+    ],
+    "answer_type": "procedural_multi_step",
+    "difficulty": "hard",
+    "question_type": "procedural",
+    "law": "Ceza Muhakemesi Kanunu",
+    "notes": "Müsadere prosedürü, birden fazla bilgi gerektiriyor."
+  },
+  {
+    "question_id": "real_bench_015",
+    "question": "Sanığın sonradan kendi müdafisini seçmesi durumunda baro tarafından görevlendirilen avukatın durumu ne olur?",
+    "verified_answer": "Şüpheli veya sanığın kendisinin sonradan müdafi seçmesi halinde, baro tarafından görevlendirilen avukatın görevi sona erer.",
+    "gold_sources": [
+      "turkish_law_eski_5271_ceza_muhakemesi_kanunu_m156"
+    ],
+    "answer_type": "consequence_based",
+    "difficulty": "medium",
+    "question_type": "consequence",
+    "law": "Ceza Muhakemesi Kanunu",
+    "notes": "Sonuç sorusu. Karşılaştırmalı okuma gerektirmiyor ama pratik."
+  },
+  {
+    "question_id": "real_bench_016",
+    "question": "Türkiye'de grev hakkı ne zaman ve nasıl kullanılabilir?",
+    "verified_answer": "Toplu iş sözleşmesinin yapılması sırasında uyuşmazlık çıkması halinde işçiler grev hakkına sahiptirler. Bu hakkın kullanılmasının ve işverenin lokavta başvurmasının usul ve şartları ile kapsam ve istisnaları kanunla düzenlenir.",
+    "gold_sources": [
+      "turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m54"
+    ],
+    "answer_type": "factual_single_source",
+    "difficulty": "easy",
+    "question_type": "right_scope",
+    "law": "Türkiye Cumhuriyeti Anayasası",
+    "notes": "Anayasal hak sorusu. Madde numarası yok."
+  },
+  {
+    "question_id": "real_bench_017",
+    "question": "Grev yasağı veya ertelemesi durumunda uyuşmazlık nasıl çözülür?",
+    "verified_answer": "Grev hakkı ve lokavtın yasaklanabileceği veya ertelendiği durumlarda ertelemenin sonunda uyuşmazlık Yüksek Hakem Kurulunca çözülür. Yüksek Hakem Kurulunun kararları kesindir ve toplu iş sözleşmesi hükmündedir.",
+    "gold_sources": [
+      "turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m54"
+    ],
+    "answer_type": "exception_procedure",
+    "difficulty": "hard",
+    "question_type": "exception_mechanism",
+    "law": "Türkiye Cumhuriyeti Anayasası",
+    "notes": "Aynı maddedeki farklı senaryo. Çıkarım gerektiriyor."
+  },
+  {
+    "question_id": "real_bench_018",
+    "question": "Türk vatandaşlarının kamu hizmetlerine girerken gözetilecek tek kriter nedir?",
+    "verified_answer": "Hizmete alınmada görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemez. Her Türk kamu hizmetlerine girme hakkına sahiptir.",
+    "gold_sources": [
+      "turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m70"
+    ],
+    "answer_type": "principle_based",
+    "difficulty": "easy",
+    "question_type": "constitutional_principle",
+    "law": "Türkiye Cumhuriyeti Anayasası",
+    "notes": "Anayasal eşitlik ilkesi. Pratik soru."
+  },
+  {
+    "question_id": "real_bench_019",
+    "question": "Siyasi partilerin kapatılması veya devlet yardımından yoksun bırakılması hangi yolla düzenlenir?",
+    "verified_answer": "Siyasî partilerin kuruluş ve çalışmaları, denetlenmeleri, kapatılmaları ya da Devlet yardımından kısmen veya tamamen yoksun bırakılmaları ile siyasî partilerin ve adayların seçim harcamaları ve usulleri kanunla düzenlenir.",
+    "gold_sources": [
+      "turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m69_p003"
+    ],
+    "answer_type": "regulatory_mechanism",
+    "difficulty": "medium",
+    "question_type": "regulatory",
+    "law": "Türkiye Cumhuriyeti Anayasası",
+    "notes": "Düzenleme yöntemi sorusu."
+  },
+  {
+    "question_id": "real_bench_020",
+    "question": "Açıklanması ülkenin ekonomik çıkarlarına zarar verecek belgeler bilgi edinme kapsamında mıdır?",
+    "verified_answer": "Açıklanması ya da zamanından önce açıklanması hâlinde ülkenin ekonomik çıkarlarına zarar verecek veya haksız rekabet ve kazanca sebep olacak bilgi veya belgeler bu Kanun kapsamı dışındadır.",
+    "gold_sources": [
+      "turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m17"
+    ],
+    "answer_type": "exclusion_scope",
+    "difficulty": "easy",
+    "question_type": "exception_scope",
+    "law": "Bilgi Edinme Hakkı Kanunu",
+    "notes": "İstisna sorusu. Kapsamın dışında mı içinde mi."
+  },
+  {
+    "question_id": "real_bench_021",
+    "question": "Gizliliği kaldırılmış bir belgeye bilgi edinme başvurusu yapılabilir mi?",
+    "verified_answer": "Gizliliği kaldırılmış olan bilgi veya belgeler, bu Kanunda belirtilen diğer istisnalar kapsamına girmiyor ise, bilgi edinme başvurularına açık hâle gelir.",
+    "gold_sources": [
+      "turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m28"
+    ],
+    "answer_type": "yes_no_condition",
+    "difficulty": "medium",
+    "question_type": "conditional_right",
+    "law": "Bilgi Edinme Hakkı Kanunu",
+    "notes": "Şartlı evet/hayır sorusu. Diğer istisnalar saklı kaydı var."
+  },
+  {
+    "question_id": "real_bench_022",
+    "question": "Bilgi edinme hakkına ilişkin uygulama yönetmeliği kim tarafından ve ne zaman hazırlanır?",
+    "verified_answer": "Bu Kanunun uygulanması ile ilgili esas ve usullerin belirlenmesine ilişkin yönetmelik, Kanunun yayımını takip eden altı ay içinde Cumhurbaşkanlığı tarafından hazırlanarak yürürlüğe konulur.",
+    "gold_sources": [
+      "turkish_law_eski_4982_bilgi_edinme_hakki_kanunu_m31"
+    ],
+    "answer_type": "procedural_authority",
+    "difficulty": "easy",
+    "question_type": "who_when",
+    "law": "Bilgi Edinme Hakkı Kanunu",
+    "notes": "Kim + ne zaman sorusu."
+  },
+  {
+    "question_id": "real_bench_023",
+    "question": "Bir sanığın duruşmada hem müdafi hem de vekil bulunabilir mi? Bu iki kavram arasındaki fark nedir?",
+    "verified_answer": "Müdafi, şüpheli veya sanığın ceza muhakemesinde savunmasını yapan avukattır. Vekil ise katılan, suçtan zarar gören veya malen sorumlu kişiyi ceza muhakemesinde temsil eden avukattır. Dolayısıyla müdafi sanığı savunurken, vekil mağdur tarafını temsil eder; bunlar ayrı kişileri temsil eden farklı rollere sahip avukatlardır.",
+    "gold_sources": [
+      "turkish_law_eski_5271_ceza_muhakemesi_kanunu_m2"
+    ],
+    "answer_type": "comparison_multi_concept",
+    "difficulty": "hard",
+    "question_type": "conceptual_distinction",
+    "law": "Ceza Muhakemesi Kanunu",
+    "notes": "İki kavramı karşılaştırma + sentez gerektiriyor."
+  },
+  {
+    "question_id": "real_bench_024",
+    "question": "Kamu hizmetine alımda cinsiyet veya etnik köken gibi kriterler kullanılabilir mi?",
+    "verified_answer": "Hayır. Anayasa'ya göre hizmete alınmada görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemez. Her Türk kamu hizmetlerine girme hakkına sahiptir.",
+    "gold_sources": [
+      "turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m70"
+    ],
+    "answer_type": "yes_no_principle",
+    "difficulty": "medium",
+    "question_type": "constitutional_application",
+    "law": "Türkiye Cumhuriyeti Anayasası",
+    "notes": "Anayasal ilkenin somut senaryoya uygulanması."
+  },
+  {
+    "question_id": "real_bench_025",
+    "question": "Bir işletme sahibi, uzmanların gösterebileceği tüm özeni gösterse bile zarar meydana gelebiliyorsa bu işletme nasıl sınıflandırılır ve hukuki sonuçları nelerdir?",
+    "verified_answer": "Bu işletme 'önemli ölçüde tehlike arzeden işletme' olarak kabul edilir. Bu nitelendirme halinde işletmenin faaliyetinden zarar doğduğu takdirde, işletme sahibi ve varsa işleten müteselsilen sorumludur.",
+    "gold_sources": [
+      "turkish_law_eski_6098_turk_borclar_kanunu_m71"
+    ],
+    "answer_type": "classification_consequence",
+    "difficulty": "hard",
+    "question_type": "scenario_analysis",
+    "law": "Türk Borçlar Kanunu",
+    "notes": "Senaryo + sınıflandırma + hukuki sonuç. En zor tip."
+  },
+  {
+    "question_id": "real_bench_026",
+    "question": "Dernek denetim kurulunun kaç üyeden oluşması gerekir?",
+    "verified_answer": "Denetim kurulu, üç asıl ve üç yedek üyeden az olmamak üzere dernek tüzüğünde belirtilen sayıda üyeden oluşur.",
+    "gold_sources": [
+      "turkish_law_eski_4721_turk_medeni_kanunu_m86"
+    ],
+    "answer_type": "minimum_threshold",
+    "difficulty": "easy",
+    "question_type": "quantitative",
+    "law": "Türk Medeni Kanunu",
+    "notes": "Sayısal alt sınır sorusu."
+  },
+  {
+    "question_id": "real_bench_027",
+    "question": "Müsadereye konu eşyada hakkı olan kişi duruşmaya gelmezse karar ertelenir mi?",
+    "verified_answer": "Hayır. Çağrıya uymamaları işlemin ertelenmesine neden olmaz ve hükmün verilmesini engellemez.",
+    "gold_sources": [
+      "turkish_law_eski_5271_ceza_muhakemesi_kanunu_m257"
+    ],
+    "answer_type": "consequence_absence",
+    "difficulty": "hard",
+    "question_type": "procedural_consequence",
+    "law": "Ceza Muhakemesi Kanunu",
+    "notes": "Olumsuz sonuç sorusu. Metni tersinden okuma gerektiriyor."
+  },
+  {
+    "question_id": "real_bench_028",
+    "question": "Ana ve babanın çocuk için yaptıkları yasal harcamalar nedeniyle tazminat yükümlülükleri var mıdır?",
+    "verified_answer": "Hayır. Kanuna uygun olarak çocuk veya aile için yaptıkları harcamalardan dolayı ana ve baba tazminatla yükümlü tutulmazlar.",
+    "gold_sources": [
+      "turkish_law_eski_4721_turk_medeni_kanunu_m363"
+    ],
+    "answer_type": "negative_yes_no",
+    "difficulty": "medium",
+    "question_type": "liability_exclusion",
+    "law": "Türk Medeni Kanunu",
+    "notes": "Muafiyet sorusu. Metinden negatif sonuç çıkarma."
+  },
+  {
+    "question_id": "real_bench_029",
+    "question": "Toplu iş uyuşmazlıklarında taraflar anlaşırlarsa Yüksek Hakem Kuruluna başvurabilirler mi?",
+    "verified_answer": "Evet. Uyuşmazlığın her safhasında taraflar da anlaşarak Yüksek Hakem Kuruluna başvurabilir. Yüksek Hakem Kurulunun kararları kesindir ve toplu iş sözleşmesi hükmündedir.",
+    "gold_sources": [
+      "turkish_law_eski_2709_turkiye_cumhuriyeti_anayasasi_m54"
+    ],
+    "answer_type": "optional_mechanism",
+    "difficulty": "hard",
+    "question_type": "procedural_option",
+    "law": "Türkiye Cumhuriyeti Anayasası",
+    "notes": "İsteğe bağlı başvuru mekanizması. Aynı maddedeki farklı fıkra."
+  },
+  {
+    "question_id": "real_bench_030",
+    "question": "Baro tarafından atanan müdafi ne zaman görevlendirilir?",
+    "verified_answer": "Soruşturma evresinde ifadeyi alan merciin veya sorguyu yapan hâkimin istemi üzerine; kovuşturma evresinde ise mahkemenin istemi üzerine baro tarafından müdafi görevlendirilir.",
+    "gold_sources": [
+      "turkish_law_eski_5271_ceza_muhakemesi_kanunu_m156"
+    ],
+    "answer_type": "trigger_condition",
+    "difficulty": "medium",
+    "question_type": "procedural_trigger",
+    "law": "Ceza Muhakemesi Kanunu",
+    "notes": "İki aşamalı tetikleyici koşul sorusu."
+  }
+]

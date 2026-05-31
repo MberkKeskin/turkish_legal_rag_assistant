@@ -1,0 +1,5 @@
+Natural language processing (NLP) is a field of AI focused on enabling computers to understand and generate human language. It includes tasks like tokenization, part-of-speech tagging, named entity recognition, and machine translation.
+
+A token is a piece of text, such as a word or subword, that models operate on. Tokenization is the process of splitting text into tokens.
+
+Transformer models are a type of neural architecture that use attention mechanisms to process sequences in parallel. They are widely used in modern NLP systems because they handle long-range dependencies effectively.

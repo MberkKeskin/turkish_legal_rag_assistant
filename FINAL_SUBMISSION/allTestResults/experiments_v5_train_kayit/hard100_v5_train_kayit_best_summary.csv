@@ -1,0 +1,2 @@
+System,n,lexical_weight,Recall@1,Recall@3,Recall@5,MRR,train_kayit_Recall@1,train_kayit_Recall@3,train_kayit_Recall@5,train_kayit_MRR
+v5 train_kayit lexical rerank w=0.0,100,0.0,0.6,0.79,0.82,0.6898333333333332,0.1111111111111111,0.3333333333333333,0.3333333333333333,0.2222222222222222

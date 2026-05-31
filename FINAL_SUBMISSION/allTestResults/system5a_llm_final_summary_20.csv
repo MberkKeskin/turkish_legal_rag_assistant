@@ -1,0 +1,2 @@
+Retrieval_R,Answer_A_penalized_F1,Grounding_G_penalized_Faithfulness,Final_Rubric_Score,Raw_F1,Raw_Faithfulness,EM,Citation_Accuracy
+0.95,0.6067744028662865,0.6693511478057915,0.7425475480979624,0.610059074399133,0.6913023673179867,0.0,1.0

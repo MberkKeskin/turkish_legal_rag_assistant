@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.cache/
+
+# Large model/checkpoint files
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.zip
+
+# Optional: if model folder is shared externally, uncomment:
+# FINAL_SUBMISSION/models/
