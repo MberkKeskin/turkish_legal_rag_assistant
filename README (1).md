@@ -40,7 +40,7 @@ Large model files are not included in this GitHub repository due to file size li
 
 Download or copy the `models/` folder from the following Google Drive link:
 
-https://drive.google.com/drive/folders/1ptbpRlGl3L6f9-Ei2fm4czbZeDhez2oF?usp=sharing
+https://drive.google.com/drive/folders/1ptbpRlGl3L6f9-Ei2fm4czbZeDhez2oF?usp=drive_link
 
 After downloading, place the folder exactly as:
 
