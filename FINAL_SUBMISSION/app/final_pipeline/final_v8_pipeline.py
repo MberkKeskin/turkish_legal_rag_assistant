@@ -220,7 +220,7 @@ class FinalLegalRAGPipelineV8(FinalLegalRAGPipeline):
         selected = select_default_top5(reranked50)
         return selected[:5]
 
-    def answer(self, question, context_top_k=5, max_new_tokens=260):
+    def answer(self, question, context_top_k=5, max_new_tokens=1024):
         retrieved_contexts = self.retrieve_contexts(question)
         llm_contexts, context_policy = select_contexts_for_llm_v2(question, retrieved_contexts)
 

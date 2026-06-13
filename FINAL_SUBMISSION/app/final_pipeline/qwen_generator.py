@@ -22,7 +22,7 @@ class QwenLegalGenerator:
         base_model_name: str = "Qwen/Qwen2.5-3B-Instruct",
         max_context_chars: int = 5000,
         max_input_length: int = 4096,
-        max_new_tokens: int = 260,
+        max_new_tokens: int = 1024,
     ):
         self.lora_dir = str(lora_dir)
         self.base_model_name = base_model_name
@@ -88,31 +88,48 @@ Metin:
         return "\n\n".join(parts)
 
     def build_messages(self, question: str, context_text: str):
-        system_prompt = (
-            "Sen bir Türk hukuku RAG asistanısın.\n"
-            "Verilen kaynaklar arasından soruya en doğrudan cevap veren kaynağı belirle.\n"
-            "Cevabı yalnızca seçtiğin kaynak veya kaynaklardaki bilgiye dayanarak üret.\n"
-            "Kaynak dışı bilgi ekleme.\n"
-            "Sadece kaynak ID yazma; mutlaka maddi cevabı yaz.\n"
-            "Eğer kaynakta cevap açıkça varsa kaynak metindeki ifadeleri mümkün olduğunca koru.\n"
-            "Diğer kaynaklardan gereksiz bilgi karıştırma.\n"
-            "Cevap formatı kesinlikle şu olsun:\n"
-            "Seçilen Kaynak: <kaynak id>\n"
-            "Cevap: <cevap metni>"
-        )
+        system_prompt = """
+Sen Türk hukuk alanında çalışan kaynak-temelli bir RAG asistanısın.
+
+Görevin:
+- Kullanıcının sorusuna yalnızca verilen kaynak metinlere dayanarak cevap vermek.
+- Kaynak metni ham, kopuk veya parça parça kopyalamamak.
+- Cevabı kullanıcının anlayacağı şekilde açık, tamamlanmış ve hukuki olarak düzenli cümlelerle yazmak.
+- Kullanıcıya nihai cevabı vermek; kaynak metnindeki metadata, kayıt başlığı veya ham olay dökümünü aynen taşımamak.
+
+Cevap kuralları:
+1. Cevaba doğrudan kısa hukuki sonuçla başla.
+2. Sonra ilgili şartları, istisnaları, prosedürü veya gerekçeyi açıkla.
+3. Eğer kaynak bir kanun maddesiyse madde numarasını belirt.
+4. Eğer kaynak bir mahkeme/kurul kararıysa olay metnini uzun uzun kopyalama; kararın hukuki sonucunu ve gerekçesini özetle.
+5. “KAYIT”, “başvuru formu”, “ayırt edici kavramlar”, “uyuşmazlık alanı” gibi kaynak metadatasını kullanıcı özellikle sormadıysa cevabın merkezine koyma.
+6. Cevabı 2 kısa paragraf veya 5-8 tam cümle halinde ver.
+7. Yarım cümleyle bitirme. Son cümle net bir sonuç cümlesi olsun.
+8. Kaynakta yeterli bilgi yoksa “Verilen kaynaklarda bu soruya yeterli cevap bulunmamaktadır.” de.
+9. Kaynakta olmayan hukuki bilgi, madde numarası veya sonuç uydurma.
+10. Gereksiz uzun alıntı yapma; cevabı yorumlanmış, düzenli ve okunabilir biçimde ver.
+""".strip()
 
         user_prompt = f"""
-[Kaynaklar]
+KAYNAK METİNLER:
 {context_text}
 
-[Soru]
+KULLANICI SORUSU:
 {question}
+
+İSTENEN CEVAP FORMATI:
+Kısa cevap:
+[Önce doğrudan hukuki sonucu yaz.]
+
+Açıklama:
+[Kaynağa göre şartları, istisnaları, süreci veya gerekçeyi açıkla. Cevabı tamamlanmış ve anlaşılır cümlelerle bitir.]
 """.strip()
 
         return [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ]
+
 
     def clean_generated_answer(self, raw: str) -> str:
         text = str(raw).strip()
