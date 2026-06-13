@@ -293,33 +293,6 @@ If `gold_answer` is provided and Full RAG mode is used, answer-level metrics suc
 
 ---
 
-## Evaluation Results
-
-Evaluation outputs are stored under:
-
-```text
-FINAL_SUBMISSION/evaluation_results/
-```
-
-Important stagewise evaluation files:
-
-```text
-FINAL_SUBMISSION/evaluation_results/physical_stagewise_stratified50/physical_stagewise_summary.csv
-FINAL_SUBMISSION/evaluation_results/physical_stagewise_stratified50/physical_stagewise_details.csv
-```
-
-The compared physical stages are:
-
-| Stage                   | Description                                             |
-| ----------------------- | ------------------------------------------------------- |
-| S0_BASE                 | Base embedding + earliest available reranker + base LLM |
-| S1_FT_EMBEDDING         | Fine-tuned embedding added                              |
-| S2_FT_RERANKER          | Fine-tuned reranker added                               |
-| S3_ERROR_MINED_RERANKER | Error-mined reranker and faithful LLM                   |
-| S4_FINAL_SYSTEM         | Final system with default_top5                          |
-
----
-
 ## System Components
 
 ### Embedding Retriever
