@@ -1,0 +1,30 @@
+{
+  "base_model": "Qwen/Qwen2.5-3B-Instruct",
+  "method": "QLoRA / LoRA SFT",
+  "output_dir": "/kaggle/working/qwen2_5_3b_legal_lora_sft_faithful_v2_final",
+  "max_seq_length": 1536,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj",
+    "gate_proj",
+    "up_proj",
+    "down_proj"
+  ],
+  "learning_rate": 2e-05,
+  "max_steps": 1200,
+  "gradient_accumulation_steps": 16,
+  "optimizer": "adamw_torch",
+  "fp16": false,
+  "bf16": false,
+  "train_examples": 19100,
+  "validation_examples": 687,
+  "best_step": 1000,
+  "best_eval_loss": 0.48707857728004456,
+  "final_eval_loss": 0.48707857728004456,
+  "final_eval_perplexity": 1.6275544931593366
+}
