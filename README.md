@@ -366,4 +366,4 @@ Recommended remote evaluation workflow:
 9. Run retrieval-only benchmark first.
 ```
 
-This setup allows the instructor to test the project remotely without manually downloading model files.
+
