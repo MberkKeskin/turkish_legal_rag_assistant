@@ -350,7 +350,7 @@ The generator is instructed to produce source-grounded Turkish legal answers and
 
 ---
 
-## Quick Instructor Workflow
+## Quick  Workflow
 
 Recommended remote evaluation workflow:
 
